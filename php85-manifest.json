@@ -1,0 +1,1072 @@
+[
+  {
+    "path": "adm/memcategorylist_newwin_get.php",
+    "original_sha256": "0ac6c690e5e3c5ab30ab817819d0865908e4b617706f7fab0be182e864e8bd02",
+    "patched_sha256": "1389e7ebd8c5e84c236b7afafd5941898130ca13a6526de249a045fcbcbc0185"
+  },
+  {
+    "path": "adm/visit_date.php",
+    "original_sha256": "91edcc55a0eaea836f4107a15268b417fbc9555569dab1324acf1f335d80b488",
+    "patched_sha256": "2d4ebef85784ac53919e560b42600c6724f1914dbe30957c2a4b7d677c386416"
+  },
+  {
+    "path": "adm/theme_config_load.php",
+    "original_sha256": "c0d226f817966ff1c6e90ac770e3490b07801397b716a18189b5a5ce297ef0a4",
+    "patched_sha256": "f50c048566b2bccb0ed7c6b83affad130579675472fe4ea6e972fabd3d667703"
+  },
+  {
+    "path": "adm/mail_select_form.php",
+    "original_sha256": "c8f556be28cadba20710ebe194b93da2c9834ef4d728d3d7b00a81f831404c1e",
+    "patched_sha256": "6f886f0f5677902fdd7ae56980132f721c19955528654c26de5acf8a10007592"
+  },
+  {
+    "path": "adm/board_list.php",
+    "original_sha256": "6e0d58fabbf24502fd3077e4e4cea65b289a680cc3159d43a0b5cb152a2bf5e2",
+    "patched_sha256": "7fd36e214496c1919f94d86f87235a9f4fde323885ad1b90da07da9688388310"
+  },
+  {
+    "path": "adm/board_form.php",
+    "original_sha256": "5e01967def130b14e01281083c434d03380b089b833f5200e43ad9df66e75e74",
+    "patched_sha256": "43659b3c8c15d11b9de12c918c38a98140b70c211eb5df1b56012acaf269ce03"
+  },
+  {
+    "path": "adm/mail_update.php",
+    "original_sha256": "ded1f3990dfe9712647fca120f59b8a0aab096886551054adc03a9e3f6131f61",
+    "patched_sha256": "0f5de573e698a50fbdc4312674ef3c9af7f3e00315bec00b42db11e56d8c7d67"
+  },
+  {
+    "path": "adm/contentformupdate.php",
+    "original_sha256": "5bb0394634466caf95d74518491ecfb7edcc04cdd63a52c983835a4f6630d934",
+    "patched_sha256": "dd7885196bfa30e5fe8f74b9209abd1222a23c02c6e9ef3a7cc93d539623d1ac"
+  },
+  {
+    "path": "adm/board_form_update.php",
+    "original_sha256": "af946b0523c6d3980b3633050d6a48e9b0c5c2c072e2e47410d101cb48348f74",
+    "patched_sha256": "782486de94bc6a2f6c2314ee69a65e1be382ac2154cdf75d8dd23dd64b35e158"
+  },
+  {
+    "path": "adm/visit_hour.php",
+    "original_sha256": "977e4f39e1c23e88165cfc3cd08c67529dee71730ff92377f0f4078ecf532fc7",
+    "patched_sha256": "c2e9773227327954722796d60d7806d61ad35b2610270fd6da8586e35ac5d872"
+  },
+  {
+    "path": "adm/faqmasterformupdate.php",
+    "original_sha256": "0e92354e22aecbe4f761ccbfc313a0937852f72f5f3586c9fc3e150f4158ee71",
+    "patched_sha256": "3587bb9e2b4091ac6f7dea4a2466d0270fc621daf328df42e5026a48b1fbc556"
+  },
+  {
+    "path": "adm/ajaxmod_update.php",
+    "original_sha256": "498bbbdf9a6ea714c4a2f1db9229427d50bbad6ee343beec4cd2d320218286f7",
+    "patched_sha256": "61edc6f263aacffa7992aebc61b4bdcb12633f9d9ee08d9dac00a3825d7bb83b"
+  },
+  {
+    "path": "adm/member_form_update.php",
+    "original_sha256": "d9af6a5141884b3f08876c91c59131ed72c7daa2f520939a4658ba2e1f334d32",
+    "patched_sha256": "53f26f4dc6a6a46513fe07a947a78faf01639ff8d5b0b2bc892362773e5e9c83"
+  },
+  {
+    "path": "adm/member_list_update.php",
+    "original_sha256": "4e553bdc3e90c2788b5d7ae90692c5bba8dd55e53318dd782da18acacf8f9b5e",
+    "patched_sha256": "a397f6af6edf21c828ff4690a5e110edde4f7a3f7edabe8f0ca145fccf79e11c"
+  },
+  {
+    "path": "adm/poll_delete.php",
+    "original_sha256": "bdf1de2942fd64a7a8658a831a340c1fcf352b6a3696260f11eba589d26faaa6",
+    "patched_sha256": "7794bfda6d8b3f43ce1eb2e521095a38e6788e97fab65564f5e06090f5644966"
+  },
+  {
+    "path": "adm/visit_year.php",
+    "original_sha256": "ef5c2f04a32bd60a42d022a603e93a23d5aeb8e973c72337331d6ce4f01f2633",
+    "patched_sha256": "51604dbff82c9c044165a7349d16b41efd3ae1ce3a7d8fa2a4b6c3b06eda1e04"
+  },
+  {
+    "path": "adm/visit_search.php",
+    "original_sha256": "362af1c598e0a42ac202f220d8b46e93d4a7f3456b01a24499fe1695e78b073d",
+    "patched_sha256": "e542965871902ed87e79e1e0426ba10be5b0cd9566b025957ea437478e4a9cef"
+  },
+  {
+    "path": "adm/mail_form.php",
+    "original_sha256": "1befa588f34d12f620842c12037dd48df91e34058258ca21b7110d7327a84ea3",
+    "patched_sha256": "280c7fe9ba96367780f85231330bca534933544ef323fd4ccf4493915f0687d0"
+  },
+  {
+    "path": "adm/sms_admin/history_view.php",
+    "original_sha256": "2edb6adf063371904afdc35124b853f6f306ac03b51c831a39a9814bc60073d1",
+    "patched_sha256": "51177702992dfca9e2eac21f89acf9ec5e3de98a5d2304129bff619d4554748c"
+  },
+  {
+    "path": "adm/sms_admin/ajax.sms_write_group.php",
+    "original_sha256": "6f97ff173e7d5f3de416c4cbe1bc647c4e790c6ffb77a445fa442413b4bfdf89",
+    "patched_sha256": "fe4795ef813c41c540013cfc07fb0e0c73575c1152e0dfccbd6b19cfd85ab6ae"
+  },
+  {
+    "path": "adm/sms_admin/num_book_move.php",
+    "original_sha256": "3f893376ace6240ab3b95967a6d86316ba796ad624716153b4ddd88fbfd48710",
+    "patched_sha256": "fd344f876729ab698ef4cf63d2cfcbe9709581e9c3d784e24eb479c4b919ff37"
+  },
+  {
+    "path": "adm/sms_admin/history_list.php",
+    "original_sha256": "befdf6ff3f0434c4ae7b74fd026d8a1ffce0a292e93157634dabcc9ab8a430c4",
+    "patched_sha256": "0181ddf52ed2dcb2098e17f4741987fa66b5f91308b6cae68f724e1ce312b7dc"
+  },
+  {
+    "path": "adm/sms_admin/num_group_update.php",
+    "original_sha256": "1190a456bccbe5048a408bc620985453743edf5da02b17ed843de41f2c37e0f3",
+    "patched_sha256": "7c77c68ded455975927713ef479ddaf9f66381895a95e2e62d8f67301f455084"
+  },
+  {
+    "path": "adm/sms_admin/num_group.php",
+    "original_sha256": "6d4f9d8e2873e3196750a608362bd77fbf398e167a19e4dd389e048a8addd853",
+    "patched_sha256": "03bad513d85d9e3ae7898f39b37cb1ff403a6c2f5569ab5faed97d553c8b954f"
+  },
+  {
+    "path": "adm/sms_admin/sms_write.php",
+    "original_sha256": "53469737da132663dbf433c0c23f7ef0cb6aaa8993bbaba62091b2c80b441546",
+    "patched_sha256": "99aa99978682b5701e2e97124ef8c56d580123ffc9a6de82a043d0cfdafa4be1"
+  },
+  {
+    "path": "adm/sms_admin/history_send.php",
+    "original_sha256": "46af683de15bcdb6df86fe1d754dbb2d3037b747f18f20aa36cc5224ff450473",
+    "patched_sha256": "a996cce0a94e03e290760c819119fa72eed831dd97ee3f949d2b66a64ad90d10"
+  },
+  {
+    "path": "adm/sms_admin/sms_write_overlap_check.php",
+    "original_sha256": "033d4f939916513d47a9a898257365295c308df114e4f8e26505b74d4ed57a4c",
+    "patched_sha256": "53ca834b02cec862b26dac3c350e8d01ffd0c10680a24f66a057aa5e332b2f11"
+  },
+  {
+    "path": "adm/sms_admin/num_book_file_upload.php",
+    "original_sha256": "a2eb6a4fb86ffa55e666cab3c1bfce80794a29c5a59c2f0e7fcec41ba7dc3a98",
+    "patched_sha256": "4cd201f6869a985c588ca7a32e5a0232e576e47db876654e05a967104a62399a"
+  },
+  {
+    "path": "adm/sms_admin/ajax.hp_chk.php",
+    "original_sha256": "b6d2ce89280a1419b732970ee9a82fa62d9745a607fd1ea4f8c43eb403954cc6",
+    "patched_sha256": "1d4dab270a70a2aaa10cdfab2c4c6df150210e931cf051337f2f4b3ada5965a8"
+  },
+  {
+    "path": "adm/sms_admin/num_book_write.php",
+    "original_sha256": "67ddcc6596d25642f0862c8dde532f57de9d574a7b80b65fbfa0e73c55e248e5",
+    "patched_sha256": "11aa69a91f043f2fd6554a006e3e22c5fd066d7512f0fbccdf7dad3ff3be6ee0"
+  },
+  {
+    "path": "adm/sms_admin/form_group_update.php",
+    "original_sha256": "43d92e75d293f372127753cbb11f5b08087406aab6bb0db9c7cac47d5497b3d9",
+    "patched_sha256": "a82108fdaa389b0e004abdfd3addc92bd3875874a38246f01a7e6f5337e08b5c"
+  },
+  {
+    "path": "adm/sms_admin/form_update.php",
+    "original_sha256": "bffb2961bb87ca433eb33230f2f63a52e0571a13f7e787c273e828cd1a9b3016",
+    "patched_sha256": "23666e7c969235daaf0688d36d10971d30bbae3698a9173f136ecfbc2c1c8d5a"
+  },
+  {
+    "path": "adm/sms_admin/form_write.php",
+    "original_sha256": "cc0dec161d65801e1fe802c329ba84c8a13cbbb971a8ddeea6aa0d61e22c771d",
+    "patched_sha256": "b5deac1c268d936a7a5ea04e497baafc41a4ca13072380c87af469717765ebf3"
+  },
+  {
+    "path": "adm/sms_admin/config.php",
+    "original_sha256": "00dee940b8c7d776b17f5232b18e7e7843e776357b5019a85ab034d671af812a",
+    "patched_sha256": "3a14d47fb69973cf7cda6d334f90a32000a9a6b0a3401cd54143a371b86b5508"
+  },
+  {
+    "path": "adm/sms_admin/form_multi_update.php",
+    "original_sha256": "1c2f0a56befe0f5591d1eaf35786689135d263eb5a25d85b3e538fea4386c1cc",
+    "patched_sha256": "4483581513ed4816ae75ed6bc37b10b2a4bb85279eb3f50612c38b28990ffc92"
+  },
+  {
+    "path": "adm/sms_admin/num_book_update.php",
+    "original_sha256": "a7ea16b29eb70f3daf079f976a46418af7a41dd24c70a316e2ffa428b6dbf110",
+    "patched_sha256": "a6b39abf1a027ed0f22eb8c8297d056ff743ee1251a689ca7981e8452689707e"
+  },
+  {
+    "path": "adm/sms_admin/ajax.sms_write_form.php",
+    "original_sha256": "5a2db86d0691186ea091f6641ed34a9b431075c2555f0c4caae8df399e5bf40a",
+    "patched_sha256": "6458d600671752be7c625faf1d5e7ebe0fa4ac083ce69fc58a9059dee8967a37"
+  },
+  {
+    "path": "adm/sms_admin/number_move_update.php",
+    "original_sha256": "660bde6d7cf4ede3b11eebc3bdf8a48e35e5e3b24c3e302541cefc31172ad558",
+    "patched_sha256": "bfc63545cd0b1afd9e342f5e80db4a3b4fdab68426499386b603800e2ae33d4a"
+  },
+  {
+    "path": "adm/sms_admin/num_book_file_download.php",
+    "original_sha256": "27832e45ac90f4200e8b01827f821792bd13c2f59dece9c40da168e71e596bf7",
+    "patched_sha256": "0146d5c6d0f967942a0a02cf8927e2cb2b10d9f0de39a0cbae4f2177cfe16766"
+  },
+  {
+    "path": "adm/sms_admin/history_num.php",
+    "original_sha256": "55dfa6795c565ccb8958bfb50c44eccdd857abdbc9450b8202e418983eef14ce",
+    "patched_sha256": "491f6e594cb0b38196d9d00be4ab1f3022ecd805f27508b39166c2c56d48c518"
+  },
+  {
+    "path": "adm/sms_admin/member_update_run.php",
+    "original_sha256": "34622c117b18482291ec8c24c031e44e4c91917acb77d299881c965574b3e343",
+    "patched_sha256": "b4f7aef721f0d3bcae77d634061151e028a86069d6a61b52d44a60d20441a91a"
+  },
+  {
+    "path": "adm/sms_admin/config_update.php",
+    "original_sha256": "08338d4b788e1a26273f3978283451c5afaa463a59a37a71c8db495b0c932c99",
+    "patched_sha256": "1922cfd8e961cf2e047e0ebdc28af9e1eae0fbbefc0fbd41d625987a215294c1"
+  },
+  {
+    "path": "adm/sms_admin/form_group.php",
+    "original_sha256": "4b735a141b2a430312519094356706240c9c3d52eacf81443587a03f83da9f34",
+    "patched_sha256": "eb13ba420ad7e9a9b1b187cede57e2004723dc861444976ad4a3683c1490bfb0"
+  },
+  {
+    "path": "adm/sms_admin/install.php",
+    "original_sha256": "23371e78e1fe4702d74e461da843d9a1c8d426f54cfc60aef91cb8af0d6d89e9",
+    "patched_sha256": "9cb83d67b7cb319392d61ac6ea97eafc94008e0a1070f653868a583550077518"
+  },
+  {
+    "path": "adm/sms_admin/emoticon_move.php",
+    "original_sha256": "4e9b637b4567f5659163d8b403cc31d5cdd5eebfba4a0aa086578f19467250ec",
+    "patched_sha256": "4b7db7807f3924177d285ada1f73c0aaf38b6d974a56d4b78e007863e73f52ae"
+  },
+  {
+    "path": "adm/sms_admin/num_group_move.php",
+    "original_sha256": "eb93b3339b571b2aa2b4a36759949db1e3f03649f236a8a6bb196482840fc280",
+    "patched_sha256": "64fcd443b5240341da54eea2050c541c86e7e4680fa461bf2d7bae02b288c111"
+  },
+  {
+    "path": "adm/sms_admin/form_list.php",
+    "original_sha256": "1a7df3fc0d163fdd6c9e4eedae707b3796c2907d9bdfa2be41887319d7fa9603",
+    "patched_sha256": "26a77aea9dc545c5aca19ce9556c85ae41c67b3c5a9ab96c341ed9084f7d9b8d"
+  },
+  {
+    "path": "adm/sms_admin/emoticon_move_update.php",
+    "original_sha256": "55c33ae41b88135b07de780c34dbd9b6d9697ac23a1c9c01d32bc511ddeca4ac",
+    "patched_sha256": "a0aabd0d39b42a3606e74f47e9cacd0cf7d564754a60eb62c3fb6fc657e88ca4"
+  },
+  {
+    "path": "adm/sms_admin/num_book_multi_update.php",
+    "original_sha256": "ac2514be182ea2ca2d6a9a17a2725abbe11258441a8adec18129f65253beb854",
+    "patched_sha256": "fa6a0e0829eb834241b20dd50c419d5d56f61878f3b7ddca17a824c3c7a17de2"
+  },
+  {
+    "path": "adm/sms_admin/num_book_file.php",
+    "original_sha256": "3f81660005f21479990f2eeca5a3058683ff4855295979eac6d2eafa4a48c6a9",
+    "patched_sha256": "9d72a89842603ebef048ec2db1e5b944a99485074a7b483d2171deb071ad4f5d"
+  },
+  {
+    "path": "adm/sms_admin/member_update.php",
+    "original_sha256": "ab4dd03fa59352325a3e471e1127aa6d4284839e380dec1cc6b152f8d9ccfdc2",
+    "patched_sha256": "d0c1f96d83fb23ad69d6a532f198e3ef1bac0d18dac9fa7312b1652d11386833"
+  },
+  {
+    "path": "adm/sms_admin/ajax.sms_write_person.php",
+    "original_sha256": "263644b965cec798370a35e1fcc632d9524b72990677db78ac9b668444b7a42f",
+    "patched_sha256": "2154002bd97139c802a247049258202e8916cec0f1d4a8d10acdadda42723317"
+  },
+  {
+    "path": "adm/sms_admin/ajax.sms_write_level.php",
+    "original_sha256": "2878a565fa4630a2bde25377a5781dd2ec2f469eeec57f5f1c88f8c2014f3875",
+    "patched_sha256": "b0b1c2810aac697a5c1fc12b8a24ee59807550784ff59bdf2709ad662bad3be9"
+  },
+  {
+    "path": "adm/sms_admin/sms_write_send.php",
+    "original_sha256": "82c88d5cbd7411206a1499bf59414998ed7ab7ca415de987cfd613ffd9331f31",
+    "patched_sha256": "ce040152438ca72c7a9cf7644185200fa226ad739209443cdbbf3c9f66078188"
+  },
+  {
+    "path": "adm/sms_admin/num_book.php",
+    "original_sha256": "b0b5c86b1caa1bcd3d02f5bf018c58972b22f2cff4434292050951ddfae41748",
+    "patched_sha256": "667ffb713c3637931d6fefafafe74e5627926ea1720842c77e94b71da33e6a03"
+  },
+  {
+    "path": "adm/sms_admin/form_group_move.php",
+    "original_sha256": "3a500dbaa2434d940b7b679e63c2e07f2b72e7913d75f9b0783b6a9425839613",
+    "patched_sha256": "f18a44f4b6f67cc181703541ab4ec18ac3377127e61118ec989f4352b57fd0ad"
+  },
+  {
+    "path": "adm/mail_test.php",
+    "original_sha256": "78ed92b98b9bfe432171f4b3e0a46cf56438ab087fccfcc28f950ff279531b55",
+    "patched_sha256": "06f07dd05e26ba2efa36f54e825eabeb0de28930ba7f10dedbcd4a616f6a0224"
+  },
+  {
+    "path": "adm/memajaxmod_update.php",
+    "original_sha256": "fcf5a52f85c29172849cd9890d50e49d002e408f43938bd43a8d4c0f242c2a7a",
+    "patched_sha256": "b534c483505d7da2a4f984675b32a3913fdc28b8b2f154f78e7fce0187a4e50d"
+  },
+  {
+    "path": "adm/boardgroup_form.php",
+    "original_sha256": "f483b5a91f20c2c204b48c10d632550f3642dc4fdf42169e63fd6536231e6da4",
+    "patched_sha256": "bfcfb890e26735a579a7e001c464996185c4911f1d4b7f3c54b29010df34d824"
+  },
+  {
+    "path": "adm/faqmasterform.php",
+    "original_sha256": "e89298ebaaa46d77149a0841150aabdef73cf40f49ffc15a92a8993c23790a17",
+    "patched_sha256": "9990afc00374ca324d48b31c5556aead49301dc134814a86f710970fb1338643"
+  },
+  {
+    "path": "adm/qa_config_update.php",
+    "original_sha256": "64a5d7d6ab5ef588194052dd0e84053f145232f9c44e7cd65e749d814a671767",
+    "patched_sha256": "0ff81a1f6d125c6c7e30367b4ec0f54d40305bbec28a66badd6d13d2e076cca4"
+  },
+  {
+    "path": "adm/mail_delete.php",
+    "original_sha256": "bb51e4b49594849ccafedfa5cfc3296fdb824f137bbaf7f781e513796357fdc6",
+    "patched_sha256": "2e43b58b140eaa7e792d26114de95f0c44418c249f546ec868c4230c12fa3529"
+  },
+  {
+    "path": "adm/popular_rank.php",
+    "original_sha256": "7bd2d1e74e0aea60ceeefdfa76c8cdf92d7f1661b61056195c9005a8ed6b575e",
+    "patched_sha256": "0caa3a6f559fdf0a6dd7d854274103d5ffa07f3467f1dbf433eff4c62b5e82b5"
+  },
+  {
+    "path": "adm/newwinformupdate.php",
+    "original_sha256": "de86798e31a6a29119b4cefe1698d8a73d7645b6942a5d98b9c706294cbe7c7c",
+    "patched_sha256": "ae0c522370f7561f838ef371ba938fca556a6aa7247d3373ea506c64939b8b6f"
+  },
+  {
+    "path": "adm/point_update.php",
+    "original_sha256": "1ddc5fecb412dcfc3f07161cd756ecfe5ffebd33664ff04684bfc0be2c5c811d",
+    "patched_sha256": "414ab9c839f612771d9ae528cff25ef0dd95bbe09141928a2035132af7447f37"
+  },
+  {
+    "path": "adm/faqlist.php",
+    "original_sha256": "d9f00732ebe242dd5c23123e52f6f3c8c3d1c432b87ded92a2fd36ba5062ddc2",
+    "patched_sha256": "e34fe4b5d03952e869bcd4cd13b5bb78cd07d7ac297b500863c69b28afaafec8"
+  },
+  {
+    "path": "adm/point_list.php",
+    "original_sha256": "3eaea58e355e57d352ae0dffe7aae61bb8c84565b8dabd2cb60e344ec7db98f0",
+    "patched_sha256": "7004754b92be6e81a4e4a1511a0e96a401c4f1bced53ddf692b499c1ca8c7d81"
+  },
+  {
+    "path": "adm/boardgroupmember_list.php",
+    "original_sha256": "b9b18e49a4958591d14433475a6b6ce309f1f4ad03fc14fec6afbf75cb9fae1c",
+    "patched_sha256": "0ff3c3972ef6f132ccc197c4a051600b7982447cf91a89656a22cf33870e1c70"
+  },
+  {
+    "path": "adm/poll_form.php",
+    "original_sha256": "f054cf1677e5cab15ac661baa176af18cce3c1196a925df5cdbc1ebd0679a855",
+    "patched_sha256": "5f411b4ad5b20e8139fa34d1465340bf929c1ffbc6d08f2ff316fbc24919c7c0"
+  },
+  {
+    "path": "adm/member_list.php",
+    "original_sha256": "03c8d398ee5d7b199a5dee1b1114919c989386b9072068a3418264e0f4a4719e",
+    "patched_sha256": "5d70ff56b5ba96d4ea7b5803ae4d792e10c7cfa28cf338517d6ab9259e78ad4e"
+  },
+  {
+    "path": "adm/boardgroup_form_update.php",
+    "original_sha256": "4fa8c44a73474f884053e0a1d03a05df52f1bb0db7c1f9feef2b0f5e407cb983",
+    "patched_sha256": "e80d2a22375c66cd9da820fe7806b93572e90255f8e429dee5f9b7cf1c385489"
+  },
+  {
+    "path": "adm/visit_delete_update.php",
+    "original_sha256": "3ef80b5c43e1e720320dac82a09644b894ca9b5ff2f44ce5aa48978bbcc116b7",
+    "patched_sha256": "56852d2a6af1dd17376bba6709ec181e8cdae532e65c08965abea34851530a69"
+  },
+  {
+    "path": "adm/visit_browser.php",
+    "original_sha256": "fa25edbac449b9f5ddd1cc870ecd90e0f7fa153c833d8f9d9b8e10318466ec1c",
+    "patched_sha256": "49e7167ec4f295ab29034cd25677185807f1dc35fbc933c1bece156b067aff04"
+  },
+  {
+    "path": "adm/member_form.php",
+    "original_sha256": "d5b05335493fb1803176f45c2d3d7d2099baaede1923afd7bd8415e700d255f4",
+    "patched_sha256": "d4d479dbb7c4425ebc903a2eeba6f199f89f21c8199ba3dc3503b519648a36b5"
+  },
+  {
+    "path": "adm/boardgroup_list_update.php",
+    "original_sha256": "091c3363c1fbd60aaaf21d73fa47285cd69e740d2c1fd8b979b52736aa153938",
+    "patched_sha256": "59fb2d5eb575b737a022a60efbe45188ff4836da08124bef2b4ff41b7edca7c4"
+  },
+  {
+    "path": "adm/mail_select_list.php",
+    "original_sha256": "a5390dcb5b068517a7e008e1999ed3b09462bb86ee139b1cae521355f1957c22",
+    "patched_sha256": "83803503e328f3aa397460ed933c10c33ede8bb9c7dcb99c9d1fdc90408b8d0f"
+  },
+  {
+    "path": "adm/board_copy.php",
+    "original_sha256": "c93b896e2fcddaf9c5641eecbc66709723fb53ba3952df3f5247bb8d230c623d",
+    "patched_sha256": "cfeebec4c629b9a5c92cfaf9ea014873b6edd4af08b47caef13668b652c81060"
+  },
+  {
+    "path": "adm/visit_device.php",
+    "original_sha256": "bae427483b4e3c7e81c1c13316015885617f459efd3698acf87fd308609f1552",
+    "patched_sha256": "af9f120fb1c68ac211101c162b5d358d104d891819b615e30b331536c81518c1"
+  },
+  {
+    "path": "adm/visit_week.php",
+    "original_sha256": "064b4a9d33db3339655bb287ade524871d200d010f7f3467c0723b8cc21c4b83",
+    "patched_sha256": "e473a1a36c3e73f55334c1417d9205b78398cc17dfa38679440257c0dbc7dc70"
+  },
+  {
+    "path": "adm/config_form.php",
+    "original_sha256": "7f47932f7fcaa34849bda65a26e9d2f25947a6739c8f6a7e1cedaa607b82542a",
+    "patched_sha256": "a1a1618c753f9e5ba3d21e8f5ed49cf23ca5a292ac499ebf641338ccb80796ed"
+  },
+  {
+    "path": "adm/boardgroupmember_update.php",
+    "original_sha256": "0ab39b3865b918373cd9910fa637372f831ca097091a56ee7e3e26f2b1494a06",
+    "patched_sha256": "642f3c4b5bb867c2190a026c4e0d1422b2abd3fac1fc745d00c11394d7c7f08f"
+  },
+  {
+    "path": "adm/index.php",
+    "original_sha256": "58cb579b707d5d4662b84122473469a777d80243258ac5ef1831af7f0bdb644b",
+    "patched_sha256": "71aa37319842d4c5f65a1c4a45e25cd3edd70a45a53eb61b67ad2eecb903c0d4"
+  },
+  {
+    "path": "adm/faqform.php",
+    "original_sha256": "fe0c8a735303231c381428f6f5846496c5b5dfe4ff72a6f392c03479e950fde4",
+    "patched_sha256": "62322f5b62d285be1175f16cf80679e71959b542968d4a05fc51795d7a1d7cec"
+  },
+  {
+    "path": "adm/service.php",
+    "original_sha256": "07f93883addb67895bd4ad288c62a1fbda64b09e56f57b6b5ff440a9a7a2654f",
+    "patched_sha256": "eb05aa17ce8404ba7f7241c297cd5bf875cfbd8d000ae821daf1082378ce3514"
+  },
+  {
+    "path": "adm/boardgroupmember_form.php",
+    "original_sha256": "8a3f28cf17920da971d645bf9ef97d53f618e86c7a9c00bd5658569f9b96a61e",
+    "patched_sha256": "a40824365aa43969cadfd8dea97ce2d80e37972ca1a2767ee5e5a3778b42d2e6"
+  },
+  {
+    "path": "adm/write_count.php",
+    "original_sha256": "a844e8440c8e1f3234deb0889bb056b642c44446fc1aebf5d9f0fca3d395273e",
+    "patched_sha256": "7bcc2b2ad31929417aa9ae2c7a28d1e0d9be8c96891d9337efba02eec3089d03"
+  },
+  {
+    "path": "adm/board_copy_update.php",
+    "original_sha256": "9904525477a5a0cc3e42be73bf4c69bd36bdc5d03e045d73937ef9d65c4ec576",
+    "patched_sha256": "e5a29ca2ff5b86f9bcec4b3306c7621a37ae4294cefbb0b80e5c43b58685cb90"
+  },
+  {
+    "path": "adm/newwinform.php",
+    "original_sha256": "5a093f17330a73d74a125fb0ad81b52cf74c8c422b0c5ddb2bbb0b2751e3af5e",
+    "patched_sha256": "7c98a06efcaa397753caf43aaa5df14bbb8bd93ebbac0a2676be1ab114bcc31d"
+  },
+  {
+    "path": "adm/newwinlist.php",
+    "original_sha256": "a88baeb1327db7c8e27dd1f97ba6d1ff417e7e2eb26fecc87c23d3aa805d0981",
+    "patched_sha256": "4422ef2a6e5c139ae9c5abeda9753975f68fe719cf2995c5c1a53523b0657ff6"
+  },
+  {
+    "path": "adm/sendmail_test.php",
+    "original_sha256": "4e10b2eee52e486ccfbaf23ceed09f74b423faac5fc8b00d0621b2736932a06d",
+    "patched_sha256": "4ba6044f78d363b8a07659087d58b8569316b07cb8ef261e2bb347ffd59f8574"
+  },
+  {
+    "path": "adm/poll_list.php",
+    "original_sha256": "d4dac5c4fc27b879061d4231f83e651b70f403cbc92ce21a0c26d6e2759d56ca",
+    "patched_sha256": "f8f9f29340c11ae403ba824d9b578ec71a2409ada9ac86ff7798c33e2a9d7e72"
+  },
+  {
+    "path": "adm/visit_month.php",
+    "original_sha256": "64fa37faec3cd95115c85546de69b7cf638841f73f05a59310f368fec8038072",
+    "patched_sha256": "55143a81a985c35451b1cf4966bb03532d14358221b1852f38a21adb4fc253e7"
+  },
+  {
+    "path": "adm/categorylist_newwin_get.php",
+    "original_sha256": "e824cf1366892d9931df02f213adc9f447ed09f08969c1e8a6b8c21103db6f10",
+    "patched_sha256": "ad939ff0cb8afa1238406e9dd8bc9aec95ea2869c4ecd5244068f5a0780072c4"
+  },
+  {
+    "path": "adm/faqformupdate.php",
+    "original_sha256": "55edf9502056df6b26753644b22155c113fdd13a228cdd621243898c0fe0a3f4",
+    "patched_sha256": "a6f210bc128ba47d22337cb4e425e3948c725ce679341484e5c2b9131368771f"
+  },
+  {
+    "path": "adm/config_form_update.php",
+    "original_sha256": "f2929134171104c7b93dc9979f24ad93843ba2e6fe61b61f3444443aaa06155d",
+    "patched_sha256": "f993e1a98a675a36195bafc9990806777c6719b509e5edd833556e06dc1f8e03"
+  },
+  {
+    "path": "adm/boardgroup_list.php",
+    "original_sha256": "bdeb084810e2b2f20a7415ab60195cc9a5c06b2807ec2e3980cbf059566cce46",
+    "patched_sha256": "6fd1f8ce8712e6795792e9fd1259233a18376389a7c3e247865ef0dcae62b94c"
+  },
+  {
+    "path": "adm/board_thumbnail_delete.php",
+    "original_sha256": "0c1cb3633dca221eac427ea8506e19cf424a2541729f0979426e6d92364ae82b",
+    "patched_sha256": "fe047fcb4162f5630415c0c57d8a3991fcbe260dc21364dfb45212344f5a70e5"
+  },
+  {
+    "path": "adm/mail_list.php",
+    "original_sha256": "b52642f74c312ff8718ae72557adfced35929ad66e082ab86ec7fe41b7704b30",
+    "patched_sha256": "f03b3ba6a03818480258900c7daa73669534468ab7676ea20ed5fb6f1bfe9604"
+  },
+  {
+    "path": "adm/point_list_delete.php",
+    "original_sha256": "0f578f2c20280413cc880fb58c942f61963a3c733190e615062c50c8eb6b6485",
+    "patched_sha256": "c3fec01150940acbe0df5b676c593ac5387b2cc8dc5799b55195b16ac6eb7479"
+  },
+  {
+    "path": "adm/visit_domain.php",
+    "original_sha256": "57fd2dec86b15b7188af98e04874aa0ac6fc7e8d929bfae6814879dffb926685",
+    "patched_sha256": "0c5ab7f8689a2a15ded1c4254870dc98ab92cd1ff97140836c954261602f5987"
+  },
+  {
+    "path": "adm/phpinfo.php",
+    "original_sha256": "0174a4174dc9f318c4f82c5184f5fe68ee5aff97e6d077a870478ba04d74b301",
+    "patched_sha256": "83028ab8afa6d92352e89ebcc46fe8910eca673dacb9f31fe55bcd8dd08d1b89"
+  },
+  {
+    "path": "adm/board_list_update.php",
+    "original_sha256": "e206b963625ab94969513f67fa2994b291b3e3dd1190640b1fc6c140188d8ea3",
+    "patched_sha256": "128bbae490a8b80254ef582364353883cf9e15dc1b6c0d0b18c13ce3d4eb2d76"
+  },
+  {
+    "path": "adm/faqmasterlist.php",
+    "original_sha256": "deb7fbc0269ccc13f9532dcf87504edc7e097828661406c459f4e180c3dbcdb1",
+    "patched_sha256": "660fbb0158fa28acbaad79947b95b5ecfb1dac025f17fceb9678d7ae599c906b"
+  },
+  {
+    "path": "adm/visit_os.php",
+    "original_sha256": "08676c148edaa1c722b7b672bd96127a96a25c5693c2159cf5287e77f9cfaab7",
+    "patched_sha256": "d6d9ae07362ced747e50fd595153e7736e8f2302f1946d897c111ca03f51a9f5"
+  },
+  {
+    "path": "adm/visit_list.php",
+    "original_sha256": "f72b246aad981f5a482593ed919ef7c4d4f8299404c4b4d3de8e0ae1ffa75866",
+    "patched_sha256": "4a1f680ec79800c3023113a9a898555affb5535341183f1981bced8a3b32f76e"
+  },
+  {
+    "path": "adm/qa_config.php",
+    "original_sha256": "d8c63cd30405b26d90ed3df5c122f91001f6b7c0b8378b350eb038b40539913f",
+    "patched_sha256": "4d4f40507894791e81aa9a0d726cacb56b84c76490d7c536506287a58d99eb53"
+  },
+  {
+    "path": "adm/mail_select_update.php",
+    "original_sha256": "9635ae2103758eca7ec2e8e1f4892cc589cd5d0dd999b290b5fbe37b0d667deb",
+    "patched_sha256": "d10fa97cfd45c9815f84d2322199df9fe1638fea8a0ec335f6a4e2fcd08fa74c"
+  },
+  {
+    "path": "adm/poll_form_update.php",
+    "original_sha256": "74b7c17a77d75243c5cea891fe5d4fa474b9a32c9b348d68705cfcfefcd3ab58",
+    "patched_sha256": "b014a7fa31323aa0c1526f5efdda7302af0733a442a8a886da8867939cdd4576"
+  },
+  {
+    "path": "adm/parking/parking_list.php",
+    "original_sha256": "aafe54861b2492dcd72920171059a162a84613e076858d02a197bec89f710cc5",
+    "patched_sha256": "6c8ebf9c6889e1fa6de3610c639e6b3aaedf73ab2c2e5160a2e7cc6768809f43"
+  },
+  {
+    "path": "adm/visit_delete.php",
+    "original_sha256": "b5dee3321d987980c9e7e092e4eded08bdb9e4b4a6be064a7d3323ac40f3d0dc",
+    "patched_sha256": "1824ef7408432d023673cb11de70336374b7505ef166782dfd0c65e3622e73d5"
+  },
+  {
+    "path": "adm/banner/bannerformupdate.php",
+    "original_sha256": "5dad5c6bc4460838f9c0c6ab85d9f44befde605d728cc9f307c41860cc7a2674",
+    "patched_sha256": "8f1f2ec888fa1048077d0bc9d872325ea6eb5e54d9ce2b32a0695cb34217ff2d"
+  },
+  {
+    "path": "adm/banner/bannerlist.php",
+    "original_sha256": "e57dfb054f5fd55794d516eec806b8fe9d4c1e5ecdf114d3faf4ed2ef57d8cb4",
+    "patched_sha256": "7b87e0890c833bd76285c506398d02ff70bbb9b6f041840684b4b428759a5c47"
+  },
+  {
+    "path": "adm/banner/bannerform.php",
+    "original_sha256": "f4023313972e376eae27c7782dff0934d4a28d6058cdb8b1d763bb5a806adc7e",
+    "patched_sha256": "590e61c428d98ad66178f4d3b9fb257b916c0f01c9a7b2b3eac6b0a2eebc56a8"
+  },
+  {
+    "path": "adm/member_delete.php",
+    "original_sha256": "87cc7da25a701b48a87aaafc2cedc229e38739798474ff2a4954910cc01eaaed",
+    "patched_sha256": "2df83c2e3c8ad95a4213499fd96d8b96e6e38fa8daada50e06fc78f948984e1e"
+  },
+  {
+    "path": "adm/mail_preview.php",
+    "original_sha256": "d8c4b683423e8af6f65196a9fa5f342b79e01ca44314986852154905568c36f1",
+    "patched_sha256": "e2a6e212a54dbe41698a8e4d563ed92a24af1208df7e82614b0532a2fb1d3b5d"
+  },
+  {
+    "path": "adm/member_list_delete.php",
+    "original_sha256": "1bb74694418761ea4a5dc3d45ba838f5716cb67dfcefe22b11750202b1e91f44",
+    "patched_sha256": "cc84bf11f06277480e3446e8d5944c88be2543b763809824b8d56647bed8b80e"
+  },
+  {
+    "path": "adm/admin.head.php",
+    "original_sha256": "f6aac07717ee340b5c9abae90f944900f140929c350c23dac45ddf560174c9a7",
+    "patched_sha256": "c3d95607dcee4996a35949a3f54f71c8be4d927800107406211529059c4ad1a1"
+  },
+  {
+    "path": "adm/admin.lib.php",
+    "original_sha256": "f7e9b1facdb4b0050ead0c1e3b5ebcc3518d850e2bfed802f9312f6bcd0c94a8",
+    "patched_sha256": "270ea9d95b7007577e56d533dfc2b4e4cdd73120eb493dd812fa62164765e456"
+  },
+  {
+    "path": "adm/dbupgrade.php",
+    "original_sha256": "57a21156361729579ffeb44f39bf5e3f4eb82ef04b512e34bb14af15121d455b",
+    "patched_sha256": "adc4dccb2f9770e38aa4031591e0092307f180ede0e55b5476333c1fafda5767"
+  },
+  {
+    "path": "adm/contentlist.php",
+    "original_sha256": "c66a63f056373ffe93a51ee3546416afbd167ab7d135c7a3ce37b37ebee6894e",
+    "patched_sha256": "cfd4e758fd257ba3be5a9ab480362bdc351459c5ed47989ea7aa94b612669510"
+  },
+  {
+    "path": "adm/contentform.php",
+    "original_sha256": "8d0a4d5231da486d6e449ecc70b4b810f7580295f1507b82d860983f1e1f768e",
+    "patched_sha256": "e9d4baa58c58158ee9801a411907f5e6c4022c5aa41f26b114a06a830be32e84"
+  },
+  {
+    "path": "adm/popular_list.php",
+    "original_sha256": "bc867a45382617c58ebe011575d2d1b2cc1481a036c7bde2d8102f97ed9452b8",
+    "patched_sha256": "3c5929c23a6e57eb78d24abb2f19d591ab3304136f2c7dc36a1b30d6f1367a5d"
+  },
+  {
+    "path": "bbs/write_update.php",
+    "original_sha256": "3b382cfaa8d8eb2f1129f35cfefa2cd2b3ae2636c3def241d62f19f927d03956",
+    "patched_sha256": "e00628f911712f4a607013c09042bbddca9b2f2da9800ef73fb1795dfff3c3bb"
+  },
+  {
+    "path": "bbs/faq.php",
+    "original_sha256": "dcfc43622512dce8eba77cbc067eb2df5e433cd26acedfe4ac10c3d6deed1682",
+    "patched_sha256": "54296f29f426258b17225bc95068e32a988af01ec3a5567f521d6c4bf2c26a7b"
+  },
+  {
+    "path": "bbs/view.php",
+    "original_sha256": "c82cae387719c204126ea95785947012ae58eb444a5549a3abdfc9732810cea0",
+    "patched_sha256": "6a9e2a49f89bfd63e65e437826c0f7e65c6504b544efbecc7aaa646a2d48de44"
+  },
+  {
+    "path": "bbs/view_comment.php",
+    "original_sha256": "4ad7c8ca2f6e3e4acd6bbd20d062bec96ccac806e24724993564d10e4e4cb1d4",
+    "patched_sha256": "aca62da515c8e62b6856e07e16c5c5253ee639535c6e74e383278253cb1ef92c"
+  },
+  {
+    "path": "bbs/write.php",
+    "original_sha256": "8345cc4a402344175f1ba7f7f190d0c7f41478e821957d2fd06d2f844fd868b8",
+    "patched_sha256": "62c88c4bdd1f59ac91b70192ed4ca28ae76926fafea29f8256c65cdbd374a928"
+  },
+  {
+    "path": "bbs/search.php",
+    "original_sha256": "f91b58c766a642edf27c9bffd5ab0f0a57e4c4c262df363c74548755b6a09921",
+    "patched_sha256": "c54dd228385464ea3ddf571d32da1b222cd804c890dc59e02146a16d7bfd1567"
+  },
+  {
+    "path": "bbs/login_check.php",
+    "original_sha256": "7bd91e68717fa2ca03efd4ae01e5d239c09ef7bc722960de62baed5ef7bc20a9",
+    "patched_sha256": "c9b8ad60a1d2588764b3654322563bd3f4b5db7095f316182f211acb32ea3bc9"
+  },
+  {
+    "path": "bbs/login.php",
+    "original_sha256": "d3e678310f97ce971b2125657dfee321cde573691927cfd3dc06aa06cea75928",
+    "patched_sha256": "f637d1a8031c0188c96bbd386bf0272faed14bdc818e10b3d164bf8a42eb290e"
+  },
+  {
+    "path": "bbs/board_tail.php",
+    "original_sha256": "f68393d2f055ccbb59c604bf3309e8a7ca32d354027072e71f8243f153cb88b7",
+    "patched_sha256": "028a3c4046769c44bfe5d8a97346df08bd5c9ff9c8f876c1f28d263f5e1db43d"
+  },
+  {
+    "path": "bbs/board_head.php",
+    "original_sha256": "4113822472c3d92a3eed03da345143b490e0eb0f03a496799669ab980e4a26ca",
+    "patched_sha256": "000d55af38553541a461ea80bb17ededca85d27a4c50fa12993631cd42e2c296"
+  },
+  {
+    "path": "common.php",
+    "original_sha256": "d8b7bcd29179b18f83f2fa0fbaf04d2bf24cf6740b1cc7efc4ce1167b31f3a23",
+    "patched_sha256": "250034e4ca8f1b755dcfdeefce7c988c5be95b870906345f0211bd94a562c693"
+  },
+  {
+    "path": "head.sub.php",
+    "original_sha256": "880b5beb59a3f5d2de928fe097e76aca51ffd5118791b033c453afea06fc121c",
+    "patched_sha256": "7a21a7cf2411165325d770c1fce64b445cd6c98edb88ac3e51969084f13db783"
+  },
+  {
+    "path": "index2.php",
+    "original_sha256": "c14d485a90d9175aaf3bb98f292ab090e145df33650b6870e8f35f163f00dee4",
+    "patched_sha256": "14afb2d1fb3ff63a7b704d897dbf3e203359452126b811aeecdd2b2f1a2d7daf"
+  },
+  {
+    "path": "index3.php",
+    "original_sha256": "4c9d5adc3bbd83e05e15be3fef972670528aa02bbd5683a3e90774ac4801606a",
+    "patched_sha256": "5e603a4090115febfcb27ef6b7a7877f7539a8220a303b616cf2de9761943070"
+  },
+  {
+    "path": "index.php",
+    "original_sha256": "4933a10ba8adbc6f04916a4014ec063cb5cec40d5a051907b0ff0d6436c76c46",
+    "patched_sha256": "70aa089b7e9ca172d2ce22bd6541f361d5afb20dbd2eb1d5756ecd09ec49973f"
+  },
+  {
+    "path": "lib/URI/uri.class.php",
+    "original_sha256": "405f216d5f6420714fbb7dc89e25babad4b11835fd33c0b98c0da22043b5caea",
+    "patched_sha256": "87e17e8aa980ef9f1eb1c174b28779f4c10365e535d732bcb8cb137e8884976c"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_format.inc.php",
+    "original_sha256": "28cc7f29dfba553c0d5ad964bba585d7f9b0234e8723f1e1f75fd33e8ca14ad5",
+    "patched_sha256": "b258f27482fb942839d36bb7836ab3447b7ce72c1fee73eaeb23bac2cb3cab85"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_workbook.inc.php",
+    "original_sha256": "efd1f0d467095d5cbf48c5a6aef012869ef1829a422c727d1a8f9f6a6192a1c8",
+    "patched_sha256": "762e55081b7629184210e4bfbf1801ca5a7c3bfbabc95da9b2aad8760f8913ad"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_formula.inc.php",
+    "original_sha256": "227a5270abfc87e9ffeef223c9d486e904fe19e8ed5c0c0fa26b09c00b39f200",
+    "patched_sha256": "4ba34cf6e228ed250cb5a4266ef89ea5f14b4bf9ffc5b614cf8f53061dcc7b2a"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_worksheet.inc.php",
+    "original_sha256": "a9eda34dc8c12f0bfb32eaf45d6fa31512126861699193518614fe4114165a21",
+    "patched_sha256": "f7a29e9b5734d40767a51a493d94a3e167f4a957a3cf718f199ad4334d77e09a"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_biffwriter.inc.php",
+    "original_sha256": "15148c3ff8667eaae6ab87706893acb3cb4fdbb094da5dbe24d18582c51a740b",
+    "patched_sha256": "57d28925aaec2d3430fa906750553b8d037c7b74a58a0c8008b4fba16764dd9e"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_olewriter.inc.php",
+    "original_sha256": "ea6b1ae8259951d330f039233face2d0acecc7332af618657e3e65293e9e7829",
+    "patched_sha256": "7bbc196dfc29b2927ff0c178c5cc45704f286f64d92dda48ffe36f816d66fb25"
+  },
+  {
+    "path": "lib/Excel/php_writeexcel/class.writeexcel_workbookbig.inc.php",
+    "original_sha256": "fc2bbf56f8ed8496bb0caa8f550083bb38062827f7c80dbddb76c8770a79c447",
+    "patched_sha256": "42c284d59f0fe0ba1bb9cc9e438027a0532818bf0258d226b01a3f3303556d76"
+  },
+  {
+    "path": "lib/Excel/reader.php",
+    "original_sha256": "cdacf207cb534a2d24395df609eaae09c8b1a4733fc6abf8458db03858f8a96c",
+    "patched_sha256": "41382d2c693a93cd793465b5b3b013fed60192188be44c38096d80628f978bd0"
+  },
+  {
+    "path": "lib/Excel/oleread.inc.php",
+    "original_sha256": "baae9ebe7f90ae71ba56f664e94d3500985d4063b5de420121338a95afeef04c",
+    "patched_sha256": "912e6eaba1e999bbe0a757f30eab9b06dc7f9bbb538086e1ed872f5451532073"
+  },
+  {
+    "path": "lib/popular.lib.php",
+    "original_sha256": "ef1fd4b5599aa08dd76280b98cf18717544e774e1e40a8ede4c944ced482f8d4",
+    "patched_sha256": "1e5aa285dba5d240fe151f84381df44a28b92366d01f4465d6e1d289781ff335"
+  },
+  {
+    "path": "lib/thumbnail.lib.php",
+    "original_sha256": "dcc08ff32050a207c298eb052c161175bf4edbf348dffaee90c2775d32c109ac",
+    "patched_sha256": "5842befbc312aad56135750103d859e83ac0187e1f482aefe3bb77a031f04445"
+  },
+  {
+    "path": "lib/latest.lib.php",
+    "original_sha256": "7a5d3f23a7882ec856145c237a30c7402e7336becc17bdadc550862df02d593b",
+    "patched_sha256": "0c8d069586a8a17a9c0bfff182d7773692e4b3053474d2b0b18a8fdd07bccb2f"
+  },
+  {
+    "path": "lib/icode.lms.lib.php",
+    "original_sha256": "a1ec48ffce050b88c39a3681d17d911046f2638a80aabff895a5d5fa9305b072",
+    "patched_sha256": "8035ee07e7b989135981a07a87291666b22abec7f40fed37a0643fae3311314b"
+  },
+  {
+    "path": "lib/common.lib.php",
+    "original_sha256": "0f7a05a43a8c1d44c0427a9054621d1d5b634342717bda5572855519dcf5ea9f",
+    "patched_sha256": "d67a72ebdc00a498f264d8ea2d16f6454da400804073410d59e83fd964354e95"
+  },
+  {
+    "path": "mobile/skin/popular/basic/popular.skin.php",
+    "original_sha256": "db7ad4d34c46051d1a1a8587736f33e95180dfaa12d84ccc50685ded498765b1",
+    "patched_sha256": "4af6b769aaccf87625b65035f653b86e98a8af2c2bb883ea47969618091a48e2"
+  },
+  {
+    "path": "mobile/skin/board/basic/view.skin.php",
+    "original_sha256": "85e11e9c65c16328cb629780516caf7ef4d4ee3d38cb6b15d2f23b0c7c08ee62",
+    "patched_sha256": "c1a964132b3719d4e111eff723ba85bf632548effc4fa42664ce8f5adf8dcde3"
+  },
+  {
+    "path": "mobile/skin/board/gallery/view.skin.php",
+    "original_sha256": "da0904a75bb59d382792a0ae6120319e598a10379658729e6d989e7224d2b248",
+    "patched_sha256": "6ab4d3b1bfa6d07969d4dcd9dc9a5157c6809bd93e0b0431c1918a31a4817b4e"
+  },
+  {
+    "path": "mobile/skin/search/basic/search.skin.php",
+    "original_sha256": "c8a44969019146fc4be25f0792dab74576da37285aa00edd9483ff87dc2a378c",
+    "patched_sha256": "7b57d842d0fdfbd924ce93d7c9cbc4ba5b185e3a29248367df72f531c1dd3763"
+  },
+  {
+    "path": "plugin/sms5/JSON.php",
+    "original_sha256": "5105da4551f166117cf46921b4ddc3962dda277036cebc9204c20a44f0ed3375",
+    "patched_sha256": "64c93be5c1b62f73600b5146b5fb9994a25d5177f75b0346f2745b017cd4369b"
+  },
+  {
+    "path": "plugin/sms5/sms5.lib.php",
+    "original_sha256": "74cf8977c6bcf5a558f1d5f38a7b51d0df845d0e9c68f9ff1ec6fabf21fae472",
+    "patched_sha256": "93d70ad1638b72513cc77803c90f560acc7b27b1cb381faaa4e513cfa7cf350c"
+  },
+  {
+    "path": "plugin/kcaptcha/kcaptcha.lib.php",
+    "original_sha256": "6b790757d2658057212f0891b28b409c88139568b0c041d6fd938b190d34355e",
+    "patched_sha256": "d88d89508c4e24d0622553c1d34fe2f44e3a0336c0dda4c5108b477c8e6d9012"
+  },
+  {
+    "path": "plugin/kcaptcha/kcaptcha_session.php",
+    "original_sha256": "8b4dc26d04a201a2d795e59d04d7bd3129d0b6af41690ffd5eb05f59c587e7e4",
+    "patched_sha256": "7b0a2fa47d9065c1332f3ff2ade0ba28ae1386ac957b7fd1fa2864eeb232c8d2"
+  },
+  {
+    "path": "plugin/lgxpay/lgdacom/patch.php",
+    "original_sha256": "b1a169276489a5fd090fb8e68501376f1ba97c534b42284d7f012726420a9b84",
+    "patched_sha256": "d8a7c58211829a6c6923f71a0b264540737214e7cc1920764e9c0fdd6da43570"
+  },
+  {
+    "path": "plugin/lgxpay/lgdacom/JSON.php",
+    "original_sha256": "c6d64199c03045c1eeb4e9a894f142111202686ad77e03ee8c2d94ce909b0674",
+    "patched_sha256": "ff4d2c5b1fbc674ae38157da9488915d3841d1ce550638f1909d93bbba21bec6"
+  },
+  {
+    "path": "plugin/lgxpay/lgdacom/ping.php",
+    "original_sha256": "a207669660124f70a498b7f1640f779356951be54161dbf78ac562fa1351c388",
+    "patched_sha256": "436f4658ad76548b7b826fa562621c9739487404800f45a111d27c1221d98b2c"
+  },
+  {
+    "path": "plugin/lgxpay/lgdacom/XPayClient4DB.php",
+    "original_sha256": "eeecc10420021ba0be06fd82907bb589fadd3fbf68e4eaeb28af1f92e099a37a",
+    "patched_sha256": "ab397691d3928191a916665edf296e4ba0e06e5c745107e72675334eea685c4a"
+  },
+  {
+    "path": "plugin/lgxpay/lgdacom/XPayClient.php",
+    "original_sha256": "e2588c363182391fb5c039a926589e866f0a371fb8c6adbc5e9da9935d479895",
+    "patched_sha256": "dc742133329deea82e8ed61c318a739400b7ced35bdaf925c67be6a3c58179bb"
+  },
+  {
+    "path": "plugin/social/includes/functions.php",
+    "original_sha256": "c9d6b69cca2cd71f1bc43c4076b711f0cf715925d3b82ffac3d79623d0f9f569",
+    "patched_sha256": "d08b5ed4236f34083aff6dfe2cdaf7810b24370ed2412ff1fa9a349dbdeeee96"
+  },
+  {
+    "path": "plugin/social/Hybrid/thirdparty/OAuth/OAuth.php",
+    "original_sha256": "48ed7865b59c6734007edac525f85fcac1c8603442e32dd9d6c74e177ea7c595",
+    "patched_sha256": "2b0bfb2bd16ebd4e95676d62057610da22d2a7981911584fe012b1e3702d26e3"
+  },
+  {
+    "path": "plugin/social/Hybrid/thirdparty/OpenID/LightOpenID.php",
+    "original_sha256": "562191ec3f882c5d840803542c6a54420146cfe6c1a7c31b1f2dd05375916e3f",
+    "patched_sha256": "340ddab2d4f56edcef88af80546fc34d96bfebf69f7b372ccf954626d031b652"
+  },
+  {
+    "path": "plugin/PHPMailer/extras/htmlfilter.php",
+    "original_sha256": "c426f40a080337f10bcd6085304dddb761d1fe9bf8e868869cb7dd8c9029814f",
+    "patched_sha256": "8f5c212c905410c736b4cbdb29c83cc47da01e3926ef6bb3d95d6cdf80965d11"
+  },
+  {
+    "path": "plugin/PHPMailer/class.phpmailer.php",
+    "original_sha256": "c2424d586c71ff11e86f157b26162d092d2b156714b9eb3effcc57016ee9ccd4",
+    "patched_sha256": "9c27b2e3103d6a96e7385a1e165a072764a77c1c637614644b9ebcc4e7b886ee"
+  },
+  {
+    "path": "plugin/PHPMailer/class.pop3.php",
+    "original_sha256": "5b62e2ffe0775c0dbefb2e2e91a4c2f1102ca1a5be493abf43092b396579cf71",
+    "patched_sha256": "a26210f1bc99e27174884a4b0a3c4acdeabb4981b1a97c3bc80e90976b4e1656"
+  },
+  {
+    "path": "plugin/PHPMailer/class.smtp.php",
+    "original_sha256": "4380bd1f3f7891d9ebdc142d55e95d4b3af88cf8f35e8eb80da79a27f0010ccd",
+    "patched_sha256": "b786d6d1c686635532f3c375d237734782b3fbc91604a67f9a0672a636b911e7"
+  },
+  {
+    "path": "plugin/PHPMailer/class.phpmaileroauth.php",
+    "original_sha256": "d04b40e846437ae19c8d32f67faef71a77e05454fa286ccb6e68b6ddd9af13be",
+    "patched_sha256": "57e54a2798aaad50f80c94f21d0f89fc43cc12f9d939e7ef4e7cda9777b2f6ab"
+  },
+  {
+    "path": "plugin/PHPMailer/PHPMailerAutoload.php",
+    "original_sha256": "af5a7fc0304fa812060e082863661e966cffc1595cae4cb94a6965573bf64086",
+    "patched_sha256": "7a068e64081c9255198964985b2650956695a6858fbf45d0568313df0d1d87e8"
+  },
+  {
+    "path": "plugin/htmlpurifier/standalone/HTMLPurifier/Printer/HTMLDefinition.php",
+    "original_sha256": "cb7b320f96e391d2f060d4bd293e1f3e3327aa81bc461bf3a586c84d45ebb4bb",
+    "patched_sha256": "24b3e51d5c34057aa3dc0bac53f49bd2a0331ce0084d61c68835552853600b14"
+  },
+  {
+    "path": "plugin/htmlpurifier/HTMLPurifier.standalone.php",
+    "original_sha256": "6903ad06efca19f61d36990408e52597e322f1f6ad4b847fb86edd04289f5f63",
+    "patched_sha256": "96a1c61c55e43967a2056aaa53ec819b5a3de34eb59922d404b77afdd22028d3"
+  },
+  {
+    "path": "plugin/editor/cheditor5/imageUpload/upload.php",
+    "original_sha256": "58ec3e26f8c341fef34c3fef26319c4f29a93db2f6e03dd02aa14ef7419de43e",
+    "patched_sha256": "92f66fbcff5109f3c9106ddb4f6d54b841460c8f600ebcf207de17b61767a2d3"
+  },
+  {
+    "path": "plugin/editor/smarteditor2/photo_uploader/popup/php/UploadHandler.php",
+    "original_sha256": "0254759204f04419d59536b1c8558578577fc248c639c7ba2993f5bff92e908d",
+    "patched_sha256": "df3f769500123643697054e3d9fcdccac3360abf9643fe37db019ba9d4ce5f4d"
+  },
+  {
+    "path": "plugin/editor/smarteditor2/photo_uploader/popup/php/JSON.php",
+    "original_sha256": "5105da4551f166117cf46921b4ddc3962dda277036cebc9204c20a44f0ed3375",
+    "patched_sha256": "64c93be5c1b62f73600b5146b5fb9994a25d5177f75b0346f2745b017cd4369b"
+  },
+  {
+    "path": "plugin/kcpcert/lib/ct_cli_lib.php",
+    "original_sha256": "4b4cea452d7f5ba174c02099ac06f05db1cfb35562df902b04f39a74cfbdf98e",
+    "patched_sha256": "8a50dac173b222911b4c72d5ab6b913c0bbfdbb344e2b284b11edf648013216c"
+  },
+  {
+    "path": "skin/popular/basic/popular.skin.php",
+    "original_sha256": "9764b3508e942da96278843f960d69f753d936981a9e4baab84c6325c5e1520d",
+    "patched_sha256": "cea6ecc16a8b65fcbea6c1c94eafc4c0e70ab9f9603dda723c63225ea233afae"
+  },
+  {
+    "path": "skin/board/basic/view.skin.php",
+    "original_sha256": "95daa3f8f953e26329621066e69a1fe72c27f4db670ccc361c12c129d848103d",
+    "patched_sha256": "24dccd2db829acaca82f4cfb229b8273870349ee51775c081fdeaed0410c97f6"
+  },
+  {
+    "path": "skin/board/gallery/view.skin.php",
+    "original_sha256": "d29662f705fed35ba29bb5c83426f8d2d6cab5593bad661f98faabb3cb1b93bc",
+    "patched_sha256": "78702c5f06ae6709d4230692666477a4223d2c1a865fa264585103acc53d1f85"
+  },
+  {
+    "path": "skin/search/basic/search.skin.php",
+    "original_sha256": "9b7fee556b5560b75a60d1225f227241cbb2f642707a16dd1bda22e4a3e397ae",
+    "patched_sha256": "fe4490f1603a569fe21b7f2da3817c9b57083c84f0a90a883a7d0dccbe0db631"
+  },
+  {
+    "path": "theme/basic/mobile/skin/popular/basic/popular.skin.php",
+    "original_sha256": "db7ad4d34c46051d1a1a8587736f33e95180dfaa12d84ccc50685ded498765b1",
+    "patched_sha256": "4af6b769aaccf87625b65035f653b86e98a8af2c2bb883ea47969618091a48e2"
+  },
+  {
+    "path": "theme/basic/mobile/skin/board/basic/view.skin.php",
+    "original_sha256": "85e11e9c65c16328cb629780516caf7ef4d4ee3d38cb6b15d2f23b0c7c08ee62",
+    "patched_sha256": "c1a964132b3719d4e111eff723ba85bf632548effc4fa42664ce8f5adf8dcde3"
+  },
+  {
+    "path": "theme/basic/mobile/skin/board/gallery/view.skin.php",
+    "original_sha256": "da0904a75bb59d382792a0ae6120319e598a10379658729e6d989e7224d2b248",
+    "patched_sha256": "6ab4d3b1bfa6d07969d4dcd9dc9a5157c6809bd93e0b0431c1918a31a4817b4e"
+  },
+  {
+    "path": "theme/basic/mobile/skin/search/basic/search.skin.php",
+    "original_sha256": "c8a44969019146fc4be25f0792dab74576da37285aa00edd9483ff87dc2a378c",
+    "patched_sha256": "7b57d842d0fdfbd924ce93d7c9cbc4ba5b185e3a29248367df72f531c1dd3763"
+  },
+  {
+    "path": "theme/basic/skin/popular/basic/popular.skin.php",
+    "original_sha256": "3482801203a6a97538f7705358fba1043e689475354bf529c7a4f5e8b55bf434",
+    "patched_sha256": "6804dfd4c24fd100952de23ce84c9b2597a0a0054d5e4dddbea8d716b18e9829"
+  },
+  {
+    "path": "theme/basic/skin/board/basic/view.skin.php",
+    "original_sha256": "95daa3f8f953e26329621066e69a1fe72c27f4db670ccc361c12c129d848103d",
+    "patched_sha256": "24dccd2db829acaca82f4cfb229b8273870349ee51775c081fdeaed0410c97f6"
+  },
+  {
+    "path": "theme/basic/skin/board/gallery/view.skin.php",
+    "original_sha256": "d29662f705fed35ba29bb5c83426f8d2d6cab5593bad661f98faabb3cb1b93bc",
+    "patched_sha256": "78702c5f06ae6709d4230692666477a4223d2c1a865fa264585103acc53d1f85"
+  },
+  {
+    "path": "theme/basic/skin/search/basic/search.skin.php",
+    "original_sha256": "9b7fee556b5560b75a60d1225f227241cbb2f642707a16dd1bda22e4a3e397ae",
+    "patched_sha256": "fe4490f1603a569fe21b7f2da3817c9b57083c84f0a90a883a7d0dccbe0db631"
+  },
+  {
+    "path": "theme/basic/head.sub.php",
+    "original_sha256": "6e25147ceb9450c4396abbd3ce507d1bd6fbd64559a3f953873b54b546cebcd2",
+    "patched_sha256": "c987a3bec8590935e102b3b13d724ad1f6b66e46f72707fb08029638538ef970"
+  },
+  {
+    "path": "theme/basic/index.php",
+    "original_sha256": "3b88650c09396540792b5e58c78e4613bf3d99fbb204e49e032214de88d4112b",
+    "patched_sha256": "5f74058a8ca539932f2988c71d95807327d14276af8e888516c2740bac8e0f7e"
+  },
+  {
+    "path": "theme/bl/mobile/skin/popular/basic/popular.skin.php",
+    "original_sha256": "db7ad4d34c46051d1a1a8587736f33e95180dfaa12d84ccc50685ded498765b1",
+    "patched_sha256": "4af6b769aaccf87625b65035f653b86e98a8af2c2bb883ea47969618091a48e2"
+  },
+  {
+    "path": "theme/bl/mobile/skin/board/basic/view.skin.php",
+    "original_sha256": "778099ce4b87decb5f5bd639107a294ee7f2ef0e766f49d10d1f057402ffca28",
+    "patched_sha256": "49cefeb5ec07be12b3f6c6c54096d32113cb360927fbb54a443a9728e59ed489"
+  },
+  {
+    "path": "theme/bl/mobile/skin/board/gallery/view.skin.php",
+    "original_sha256": "26262cd4891b95e7060071f60ec2ecc776eb4ddfb2032b710fa90edf5f292548",
+    "patched_sha256": "d52cade5d40d4259915e170093c16833d6d6621a5da313489898ac14c34c25be"
+  },
+  {
+    "path": "theme/bl/mobile/skin/search/basic/search.skin.php",
+    "original_sha256": "c8a44969019146fc4be25f0792dab74576da37285aa00edd9483ff87dc2a378c",
+    "patched_sha256": "7b57d842d0fdfbd924ce93d7c9cbc4ba5b185e3a29248367df72f531c1dd3763"
+  },
+  {
+    "path": "theme/bl/parkingout_up.php",
+    "original_sha256": "b14c0853e68671174ce3308e52047592203e7c02bd92950f9615ce50a29eae03",
+    "patched_sha256": "f5de34b62a33827808551fc0acadd4b157187a41fc72e4e062b8e8a58984c845"
+  },
+  {
+    "path": "theme/bl/parkingout_data.php",
+    "original_sha256": "4fd9605c517037fee89980039131444fb731eeeedaaf34ebef562a39a5549d0e",
+    "patched_sha256": "77c4b86fdee8cc287e046cb262e5f36d2875b59c86130aad33b3a9e6dc250ccd"
+  },
+  {
+    "path": "theme/bl/skin/popular/basic/popular.skin.php",
+    "original_sha256": "e1000337087a8a08bd460c67d593380db199ffc39d1f15439336ca3058f6f0fe",
+    "patched_sha256": "62be77d3251bf6a559ef0b65d9331f6cb62c2542ef3eb5d7a68087cf78b335e7"
+  },
+  {
+    "path": "theme/bl/skin/board/basic/view.skin.php",
+    "original_sha256": "62dbc1aacb69241b78b5990f393b979df319a9465515e58527f484f21d7d8dd0",
+    "patched_sha256": "283eb96f209dc11a41accc20de630f51c64af8595cb23c5b36a645409070ff7a"
+  },
+  {
+    "path": "theme/bl/skin/board/gallery/view.skin.php",
+    "original_sha256": "0f83a95898e0f5a2b07e03893ff1837bd8c803ca9b2c0391d6e29721f96655a2",
+    "patched_sha256": "c54551e70b9db7c1b55e5f06c92e69bdf1758db216929a12de5b1a326af52fee"
+  },
+  {
+    "path": "theme/bl/skin/search/basic/search.skin.php",
+    "original_sha256": "9b7fee556b5560b75a60d1225f227241cbb2f642707a16dd1bda22e4a3e397ae",
+    "patched_sha256": "fe4490f1603a569fe21b7f2da3817c9b57083c84f0a90a883a7d0dccbe0db631"
+  },
+  {
+    "path": "theme/bl/parkingin_data.php",
+    "original_sha256": "f664300cd1ce69dcffc42ed41a0040a5f41e83cd8b2f86bd9c757ed729b4b734",
+    "patched_sha256": "550da6a0353c8695127875f43d76277431c97e459a1aa150b06e95c59c0fef63"
+  },
+  {
+    "path": "theme/bl/_common.php",
+    "original_sha256": "3fb08614c4508ab09ca948e01a80a99dfc5b03d6f3b5e2583f7f4aa198de18eb",
+    "patched_sha256": "bdbcce9db00e6f8374295603c0b77a2ca5001931faeed1bd8bf45ac39734b454"
+  },
+  {
+    "path": "theme/bl/mainbanner.skin.php",
+    "original_sha256": "0ee78ff78a71c95fcb81f7c6262a393a6e251d0f150a20748fa2f0504b7d696d",
+    "patched_sha256": "e410b645a0a0b549ca5de0139114927963b045e44b4e691e587ebc8a59645e5a"
+  },
+  {
+    "path": "theme/bl/head.sub.php",
+    "original_sha256": "f4b837d92dda364294dc23ece1c61978b2947b5f34b701e6af922273df06a5b2",
+    "patched_sha256": "399e00e03f7ec3f64a36c1f58bdf33bfd5746626fe86bfdc34347a6642fb40b5"
+  },
+  {
+    "path": "theme/bl/index3.php",
+    "original_sha256": "845c178ee3b521749f6f5c02fe76bd74f58f05134608b4bb7cecd0fc4e21a7cf",
+    "patched_sha256": "1e5745873f60f3c00be5ddf0f31317a36be817da451f3ee41865eb2c1eacf359"
+  },
+  {
+    "path": "theme/bl/index3000.php",
+    "original_sha256": "914a4004bb142a89ce92495fd64adb5c2e18b6120014995e3fdb6c778420a20a",
+    "patched_sha256": "bacd07a1c71e2e005df061f4496e3d52e247f567fc61dd0197d99ab529a1ce09"
+  },
+  {
+    "path": "theme/bl/index.php",
+    "original_sha256": "c953ee03778fdc80d0d0ae4d86d03f85725f9ecb2639541544d408a2310b66e0",
+    "patched_sha256": "41c2ed6a2dfa03891773a18cbbf295e28f00d411c56545d14e69664acab1c022"
+  },
+  {
+    "path": "theme/bl/head.php",
+    "original_sha256": "19f4afb2be2cef4e40fa58584afa136aade5e3a0d2700ed155f643f7cbc16eb9",
+    "patched_sha256": "02c77170b320acd84284b8fcfd267b3f28d0a42551393df6fa1439c67845d297"
+  },
+  {
+    "path": "theme/bl/index2.php",
+    "original_sha256": "e20c6745c6e0db9b1c3a64af8f382d83c6d170afee974ef79c061b026a45628d",
+    "patched_sha256": "8e97336671a12a3a1811c08f70bf1c4a0823dd96bd0b628d380a1d514da9a482"
+  },
+  {
+    "path": "theme/bl/index_260325.php",
+    "original_sha256": "6299cfebb99a4a406208233840a5c95a830efbcbfeda9098973038538342e9f9",
+    "patched_sha256": "0fd3c0877b384ce298e95d964f3d7047fd95f9b47160cd77cd24e1424993ebbf"
+  }
+]
