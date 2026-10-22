@@ -1,3 +1,12 @@
+# RENE 의원 홈페이지 PHP 8.5 수정본
+
+- [rene 수정본 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/rene-php85.zip)
+- [RENE 적용 안내 및 검증 범위](RENE-PHP85-README.md)
+
+첨부된 rene.zip 범위의 파일 전체를 담은 수정본입니다. **pg/는 제외했으며, 기존 사이트를 삭제하지 말고 동일 경로로 덮어쓰세요.** 아래의 BL 주차관리 패치와는 별도 파일입니다.
+
+---
+
 # MSRH24 병원 홈페이지 PHP 8.5 수정본
 
 - [msrh24 수정본 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/msrh24-php85.zip)
