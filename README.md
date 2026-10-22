@@ -1,3 +1,12 @@
+# RENE + pg PHP 8.5 통합 패치
+
+- [수정 파일 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/rene-pg-php85-patch.zip)
+- [적용 안내와 검증 범위](RENE-PG-PHP85-README.md)
+
+제공된 rene.zip + pg.zip 기준입니다. 홈페이지 57개, pg 225개 PHP 변경 파일(검사 도구 포함)을 담았습니다. **전체 설치본이 아닙니다. 백업 후 홈페이지 최상위 경로에 덮어쓰고 기존 data/·DB 설정·업로드·인증서는 보존하세요. 기존 사이트 전체를 삭제하지 마세요.** 이전 rene 수정사항도 포함합니다. pg의 버전은 5.6.391입니다. 실제 외부 결제·인증·문자 연동은 별도 확인이 필요합니다.
+
+---
+
 # RENE 의원 홈페이지 PHP 8.5 수정본
 
 - [rene 수정본 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/rene-php85.zip)
