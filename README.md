@@ -1,3 +1,12 @@
+# 더조은의정 갤러리 흰 화면 / PHP 8.5 수정 패치
+
+- [더조은의정 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/thejecti-php85-patch.zip)
+- [적용 방법·재현 오류·검증 범위](THEJECTI-PHP85-README.md)
+
+이번 thejecti.zip + pg.zip 전용입니다. 갤러리에서 G5_CSS_VER 미정의 오류와 홈페이지의 짧은 PHP 태그 문제를 재현·수정했습니다. 홈페이지 16개, pg 203개 PHP 변경 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·이미지·인증서는 보존하세요.** 아래 rene/msrh24/BL 패치와는 다른 사이트용입니다.
+
+---
+
 # RENE + pg PHP 8.5 통합 패치
 
 - [수정 파일 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/rene-pg-php85-patch.zip)
