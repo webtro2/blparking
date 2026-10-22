@@ -1,3 +1,12 @@
+# map_basic2 두 번째 첨부본 PHP 8.5 수정
+
+- [이번 첨부본 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic2-php85-v2.zip)
+- [적용 안내 및 DB 필드·검증 범위](MAP-BASIC2-PHP85-V2-README.md)
+
+두 번째 map_basic2.zip 전용입니다. 카카오톡 채널을 포함한 링크 4개, 본문 편집기와 소개 영역을 유지했습니다. 기존 스킨과 DB를 백업한 뒤 map_basic2/ 파일을 pg/skin/board/map_basic2/에 덮어쓰세요. 이번 원본은 사용자 정의 DB 필드를 전제로 하며 DB 구조를 자동 변경하지 않습니다.
+
+---
+
 # map_basic2 PHP 8.5 호환 스킨
 
 - [map_basic2 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic2-php85.zip)

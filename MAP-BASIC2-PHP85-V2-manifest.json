@@ -1,0 +1,173 @@
+{
+  "target": "PHP 8.5.12",
+  "files": [
+    {
+      "path": "MAP-BASIC2-PHP85-V2-README.md",
+      "sha256": "49e0b6bf20db808af4088ccb6045f60a42b791aef43481df168c2d295d9f261b"
+    },
+    {
+      "path": "map_basic2/img/baseline_keyboard_arrow_down_black_18dp.png",
+      "sha256": "cfcfe39a48dbeb4576fbb31c8935db6d141ead9c24c1204c3c2ce05201bc942a"
+    },
+    {
+      "path": "map_basic2/img/baseline_keyboard_arrow_down_white_18dp.png",
+      "sha256": "78a0bc9691d1e96157398d66331959455025726f2840517ebb6b59ef2de6560b"
+    },
+    {
+      "path": "map_basic2/img/btn_cmt.png",
+      "sha256": "33e2301436f519dfbce3588d761acbe64d17c3b8e31e17f2ee111feb906671c3"
+    },
+    {
+      "path": "map_basic2/img/chk.png",
+      "sha256": "6916a8b9f6eaaea1fbf753f98bf4530fab8c72cb09e5889f1bca421f93907e15"
+    },
+    {
+      "path": "map_basic2/img/close_btn.png",
+      "sha256": "1ff3981dc7ff90c894d28f6a0ca7607e0f6dad5375843101f126b2ac66f119e4"
+    },
+    {
+      "path": "map_basic2/img/ico_bus.png",
+      "sha256": "5f2203285f7c84e20ea9c54507ed4dc860a37c8f03af81524d11d4292f548a8d"
+    },
+    {
+      "path": "map_basic2/img/ico_home.png",
+      "sha256": "517762c2b6b23832b095c253e71cc1d2bd88cc042607555f8dc12f68964a6096"
+    },
+    {
+      "path": "map_basic2/img/ico_sort3.png",
+      "sha256": "17e4213755dad7fa74de4e467418f779c1f6af2d2b59e852df0dfdf522c42631"
+    },
+    {
+      "path": "map_basic2/img/ico_sort5.png",
+      "sha256": "eb4c3e5a3ebdc8c4ca83aad524e8617e1ecb1a1f110a7ece644373bc16c697c8"
+    },
+    {
+      "path": "map_basic2/img/ico_sort9.png",
+      "sha256": "6e1a6d8e5a2a68530c9acf00a88d0073328561c55c38189c70946d73062424a3"
+    },
+    {
+      "path": "map_basic2/img/ico_store1.png",
+      "sha256": "30a1ac8b992c76f55cbd59ef3342069bc4efb0b54c44e63ab2367a5e2a9a8e89"
+    },
+    {
+      "path": "map_basic2/img/ico_store10.png",
+      "sha256": "6926dd0578f88ceb80e25651ac4af9e8178c5b0f793b6a9c0d569731632baa33"
+    },
+    {
+      "path": "map_basic2/img/ico_store1_230418.png",
+      "sha256": "baf976b4546a5776497ab9efba266146e456bc5317674174a387ae38073d8e3a"
+    },
+    {
+      "path": "map_basic2/img/ico_store2.png",
+      "sha256": "693217cb2d6c30723a684482941b1c0a72c637df39abc7cecf25a2c1ada8c033"
+    },
+    {
+      "path": "map_basic2/img/ico_store3.png",
+      "sha256": "1922341c8e331685ef4c27d22a415044269991b6eb595bb4722fdb0671cdba61"
+    },
+    {
+      "path": "map_basic2/img/ico_store4.png",
+      "sha256": "4a675655a7b935abc451eebe6e57c08c29031d53c650623d0973f19b4dfdede3"
+    },
+    {
+      "path": "map_basic2/img/ico_store5.png",
+      "sha256": "aadc3f1e579d1ca6f5b21505076a7fdb84d91b9f0a05f1c385c55d9dda37952c"
+    },
+    {
+      "path": "map_basic2/img/ico_store6.png",
+      "sha256": "bdb7a410ef67b6772c0580bb880cfddfa0e46a9f183730f7b3e9060634884144"
+    },
+    {
+      "path": "map_basic2/img/ico_store7.png",
+      "sha256": "b1de55de914e47909ab532b7ab56f2c17c7e084d50868eddf0929c1b0e110ad3"
+    },
+    {
+      "path": "map_basic2/img/ico_store8.png",
+      "sha256": "fafe3d16031d8136d839f8a4aa40d3d02460de8d4220d0a83760d5d37ed8a35b"
+    },
+    {
+      "path": "map_basic2/img/ico_store9.png",
+      "sha256": "ee3e71bccf101c6268272e0ceffe0ea77c832a6f3dd9589ce572525f162565fe"
+    },
+    {
+      "path": "map_basic2/img/ico_subway.png",
+      "sha256": "39a78dba8f38bc1284c25706b239f28b3358f3dcd6643bd632d785b98ebbd86f"
+    },
+    {
+      "path": "map_basic2/img/icon_lock.png",
+      "sha256": "8b9863c9b2c8da908e5e055273eb9d8b156eb5e0ce832a099aa889fa05abf9da"
+    },
+    {
+      "path": "map_basic2/img/icon_mobile.gif",
+      "sha256": "fca71ff9bd00e92e52c5dd10856934261fcf67b3ca64ddfab1ae7ce88daec4d2"
+    },
+    {
+      "path": "map_basic2/img/icon_reply.gif",
+      "sha256": "0233c2ed39230a35216b55861d7d5500320c0db99eba687cb2bd6883c7f081a1"
+    },
+    {
+      "path": "map_basic2/img/icon_secret.gif",
+      "sha256": "8a06181f584d61218d959913eeac4ec383c87d85a66532e595ff31e61db3a831"
+    },
+    {
+      "path": "map_basic2/img/markerStar1.png",
+      "sha256": "d2501a21181caca1237e459128d116153d54fd06d0397f0a152a6ff8512b15b6"
+    },
+    {
+      "path": "map_basic2/img/markerStar2.png",
+      "sha256": "12a2c0c844e1079b8c242dc75f9447e433db8d41a534114febc2c60033a46e0d"
+    },
+    {
+      "path": "map_basic2/img/markerStar3.png",
+      "sha256": "c7590dbb641ddadfab0af3f985b6403b00a1ab3b3d9b1a24bb5b248a31f27b59"
+    },
+    {
+      "path": "map_basic2/img/markerStar4.png",
+      "sha256": "fba9fff0aa8b1ec3ba4a2207501886f9300cb2e8899679c26c1048b0576d8059"
+    },
+    {
+      "path": "map_basic2/img/markerStar5.png",
+      "sha256": "4bde3ff6514e7d29696728da3774add879b7e1d68cce7712ec6c2bceece6c369"
+    },
+    {
+      "path": "map_basic2/img/markerStar6.png",
+      "sha256": "27ffc6f1fad7d9b2305ecaedee721a85c996e1110a87b0b9bb790d51fb1a4021"
+    },
+    {
+      "path": "map_basic2/list.skin.back.php",
+      "sha256": "51c45369e0770cf504649d1230bab177cb975551bcaca59e3c289ac8095754b0"
+    },
+    {
+      "path": "map_basic2/list.skin.php",
+      "sha256": "d07563715db4685bab137a6f3cea36ff1d7437ee19d6f1245335908b4bc2e53f"
+    },
+    {
+      "path": "map_basic2/list.skin_201005.php",
+      "sha256": "e764a8cae447eded81aedd7099f1f46f826122453b6daf4fc9c71405669d9855"
+    },
+    {
+      "path": "map_basic2/style.css",
+      "sha256": "daa7f73b642e483b9a5618550b973f1e22604e1c163e52e3f4dc47969db44aeb"
+    },
+    {
+      "path": "map_basic2/style_201005.css",
+      "sha256": "33a2b074140b0db61d69f20afdfe56997dc154c7647112e4f18854f1d2848bc3"
+    },
+    {
+      "path": "map_basic2/view.skin.php",
+      "sha256": "01b76301d7f25e3580747bddb2b158e708c203817146ffc1cab61bd37057d008"
+    },
+    {
+      "path": "map_basic2/view_comment.skin.php",
+      "sha256": "884986582058985b7fd21497d263b1e3977a93e921e5bf6aaa44ec02ddef92d3"
+    },
+    {
+      "path": "map_basic2/write.skin.php",
+      "sha256": "a7d6fa782e6ff6f1fe578bc478f3a4d2f43016e554ec3651a12fb42a562942f6"
+    },
+    {
+      "path": "map_basic2/write_update.skin.php",
+      "sha256": "f75c929db0f6e8d60651dd649d6ad0c56a7290c4084e8d94a1a66f86fd94822a"
+    }
+  ]
+}
