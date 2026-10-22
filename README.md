@@ -1,3 +1,12 @@
+# MSRH24 병원 홈페이지 PHP 8.5 수정본
+
+- [msrh24 수정본 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/msrh24-php85.zip)
+- [MSRH24 적용 안내 및 검증 범위](MSRH24-PHP85-README.md)
+
+첨부된 msrh24.zip 범위의 파일 전체를 담은 수정본입니다. **pg/는 제외했으며, 기존 사이트를 삭제하지 말고 동일 경로로 덮어쓰세요.** 아래의 BL 주차관리 패치와는 별도 파일입니다.
+
+---
+
 # 그누보드 5.4.2.7 · BL 주차관리 PHP 8.5 호환 패치
 
 이 브랜치는 제공된 `pk.tar`에 적용할 **수정 파일 패치**를 배포합니다. 전체 신규 설치용 소스가 아닙니다.
