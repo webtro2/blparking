@@ -1,3 +1,12 @@
+# map_basic2 PHP 8.5 호환 스킨
+
+- [map_basic2 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic2-php85.zip)
+- [적용 방법과 검증 범위](MAP-BASIC2-PHP85-README.md)
+
+이번에 첨부한 map_basic2.zip 전용 전체 스킨입니다. 백업 후 ZIP의 map_basic2/ 내용을 기존 pg/skin/board/map_basic2/에 덮어쓰세요. PHP 8.5에서 목록·조회·저장·수정 폼과 생성 JavaScript 문법을 검사했습니다. 실제 카카오 지도 API는 별도 확인이 필요합니다. 홈페이지/코어 전체 패치는 아래에서 사이트별로 구분하세요.
+
+---
+
 # 더조은의정 갤러리 흰 화면 / PHP 8.5 수정 패치
 
 - [더조은의정 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/thejecti-php85-patch.zip)
