@@ -1,0 +1,6 @@
+list.skin.back.php
+list.skin.php
+list.skin_201005.php
+view.skin.php
+write.skin.php
+write_update.skin.php

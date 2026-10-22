@@ -1,3 +1,14 @@
+# map_basic 변경 파일만 포함한 PHP 8.5 패치
+
+- [map_basic 변경 파일 6개 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic-php85-changed-only.zip)
+- [변경 파일 목록](map_basic-php85-changed-only-files.txt)
+
+마지막으로 첨부한 map_basic.zip 원본을 기준으로 PHP 8.5 호환 수정한 파일만 담았습니다. 기존 map_basic 스킨 폴더를 백업한 뒤 ZIP 안 PHP 파일 6개를 해당 폴더(예: pg/skin/board/map_basic/)에 덮어쓰세요. 기존 이미지·CSS·댓글 파일은 유지합니다. 이전 map_basic2 스킨이나 다른 사이트 전체에 덮어쓰는 파일이 아닙니다. 기존 지도 중심 화면, 카카오톡 채널과 본문 편집기는 유지했습니다.
+
+PHP 8.5.12, short_open_tag=Off/E_ALL에서 전체 스킨 PHP 7개 구문 검사 통과. 격리된 그누보드 5.6.391/MariaDB에서 목록·조회·저장·수정 폼과 네 번째 링크 저장, 대체 목록 2개, 생성 JavaScript 문법을 확인했습니다. 실제 카카오 API·운영 DB는 실서비스 검증하지 않았습니다. 기존 wr_12·wr_15·wr_16·wr_17 DB 필드와 API 키 설정은 유지해야 하며 DB 구조를 자동 변경하지 않습니다.
+
+---
+
 # map_basic2 두 번째 첨부본 PHP 8.5 수정
 
 - [이번 첨부본 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic2-php85-v2.zip)
