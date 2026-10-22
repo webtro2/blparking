@@ -1,0 +1,8 @@
+inc/bottom.php
+inc/head.php
+inc/nav.php
+inc/s_visual_board.php
+inc/top.php
+pg/head.php
+pg/head.sub.boa.php
+pg/tail.php

@@ -1,3 +1,12 @@
+# 또이스 게시판 흰 화면 수정 패치
+
+- [또이스 변경 파일 8개 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/ttois-board-php85-patch.zip)
+- [원인과 적용 안내](TTOIS-BOARD-PHP85-README.md)
+
+이번 ttois.zip + pg.zip 전용입니다. 게시판 전용 head.sub.boa.php:63에서 G5_CSS_VER 미정의 오류를 재현하고, 같은 파일의 G5_JS_VER 및 게시판 연결 경로·메뉴 태그를 수정했습니다. 백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제나 DB 재설치는 필요 없습니다. PHP 8.5.12에서 변경 파일 구문 검사, 홈페이지·게시판 목록·로그인·글 저장·조회·작성 폼을 확인했습니다. 운영 DB 설정은 제공받지 않아 테스트 게시판 설정으로 검증했습니다.
+
+---
+
 # map_basic 변경 파일만 포함한 PHP 8.5 패치
 
 - [map_basic 변경 파일 6개 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/map_basic-php85-changed-only.zip)
