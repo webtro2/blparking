@@ -1,3 +1,12 @@
+# 칠곡경북대학교병원 권역호스피스센터 PHP 8.5 패치
+
+- [knuhhospice 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/knuhhospice-php85-patch.zip)
+- [적용 방법과 검증 범위](KNUHHOSPICE-PHP85-README.md)
+
+이번 knuhhospice.zip + pg.zip 전용입니다. 원본 그누보드는 5.4.5.5이며 짧은 태그, DB 예외 및 게시판 출력 문자열 처리 오류를 재현·수정했습니다. 홈페이지 60개와 pg 155개 PHP 변경 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·이미지·인증서는 유지하세요.** DB 재설치는 필요 없습니다. PHP 1,052개 구문 검사와 홈페이지/문서 45개, 로그인·관리자·게시판 및 라이브러리 11개 검사를 통과했습니다. 운영 DB와 외부 서비스는 실서비스 검증하지 않았습니다.
+
+---
+
 # 또이스 게시판 흰 화면 수정 패치
 
 - [또이스 변경 파일 8개 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/ttois-board-php85-patch.zip)
