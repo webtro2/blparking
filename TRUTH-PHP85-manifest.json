@@ -1,0 +1,882 @@
+{
+  "target": "PHP 8.5.12",
+  "source_gnuboard_version": "5.6.391",
+  "changed_php": {
+    "frontend": 19,
+    "pg": 198
+  },
+  "files": [
+    {
+      "path": "TRUTH-PHP85-README.md",
+      "sha256": "13167ea5d13fcedc141721f83e239d2e34c128cd2b863712c95a385d20155124"
+    },
+    {
+      "path": "_common.php",
+      "sha256": "7efd48500ded3c6498f5e752ef30b5e46c9d934ac541680822f34d3bf04c1b48"
+    },
+    {
+      "path": "doc/comm1.php",
+      "sha256": "d95dcd74d66282ac7a7be372dbed9eaa9d828a0f33b5bdc6c2f64bb6f812efb8"
+    },
+    {
+      "path": "doc/inst1.php",
+      "sha256": "76c1232a7deb9405ac4ea679c69df41a36a4f10c162dc15f1ce96e933af46d60"
+    },
+    {
+      "path": "doc/inst2.php",
+      "sha256": "0192d2c4de9c0464522202faf7b971d79ec9c20959b599617d4024b906053a35"
+    },
+    {
+      "path": "doc/inst3.php",
+      "sha256": "25b5ed93dedc0d0296b463f09ce26b5a95e31a249d101001cb0fef9ab4fd0d3c"
+    },
+    {
+      "path": "doc/intro1.php",
+      "sha256": "8dcace156b1c63096ba8f6e206d8ca921399dc47d8d6d567851bf4b3a27111a7"
+    },
+    {
+      "path": "doc/intro2.php",
+      "sha256": "2c8824ffb1b63c76d93551d168d0a0fbb466da52d023afc6d2f0518a8c9bc5f1"
+    },
+    {
+      "path": "doc/intro3.php",
+      "sha256": "c6ee70fa0566c12bdfc9190bf61b3a7f117ff48135c7c1af9b01f644bea70c1b"
+    },
+    {
+      "path": "doc/intro4.php",
+      "sha256": "890e7c451eec80d16e1503cc56fd1e7da02bfacead81cb83b568356143bc3da8"
+    },
+    {
+      "path": "doc/intro5.php",
+      "sha256": "31eac612128aabff5870cdfb25352b8e7bf05b497c3e2b1fd41c005b52a0dc14"
+    },
+    {
+      "path": "doc/privacy.php",
+      "sha256": "0f0f29353077cc800a5d1acee0c9f0a576371f6070142b9f7911b67b0c27a006"
+    },
+    {
+      "path": "doc/terms.php",
+      "sha256": "27008bdaf08a154b6410bc480063da239596553601221d20ba4122021ee1c5ae"
+    },
+    {
+      "path": "inc/_common.php",
+      "sha256": "247fb9cab8442b6a7a7a59807b2a94b872cb22fc970782882b267fcdff6cca3b"
+    },
+    {
+      "path": "inc/bottom.php",
+      "sha256": "ff51d130f8b4649b2b908f82a5f6fef6fc1b18de2e181130d2dafe634c9b08e4"
+    },
+    {
+      "path": "inc/head.php",
+      "sha256": "660f36b56ec5802e8cd4c643a1e7796227912916c670d5a3cfcf688623f9ad10"
+    },
+    {
+      "path": "inc/nav.php",
+      "sha256": "10213ea05e035eb5535560b8e26b4537f2a2f46eeaea63d8014bc7a1ca318633"
+    },
+    {
+      "path": "inc/s_visual.php",
+      "sha256": "37f1cc2640594f75acf2fadf2e66831137a2f5f06265d7de9a27506cf75537b0"
+    },
+    {
+      "path": "inc/s_visual_board.php",
+      "sha256": "37f1cc2640594f75acf2fadf2e66831137a2f5f06265d7de9a27506cf75537b0"
+    },
+    {
+      "path": "inc/top.php",
+      "sha256": "8570761b4777a697d8a6fb6a526fbed617fa38a517b2c82f9ee792d4685013c7"
+    },
+    {
+      "path": "pg/adm/member_list_exel_export.php",
+      "sha256": "cc8f81b572c483bfbdb553a6a412b3fc08a54befdb7584e1f27f57ddd02b690d"
+    },
+    {
+      "path": "pg/adm/shop_admin/orderform.php",
+      "sha256": "89fa564be13b449538fc396afe0b481bb536c296740448604a8725b082f5620b"
+    },
+    {
+      "path": "pg/adm/sms_admin/form_list.php",
+      "sha256": "2f5ca2417cc15bdea97690362b16d28101adecad4bc6a84bea63f70f01a70479"
+    },
+    {
+      "path": "pg/adm/sms_admin/history_view.php",
+      "sha256": "2bf2e2d08555ced1d7557c5f8d578ad9dc2ecb5225ec267d99368ea14366d3a6"
+    },
+    {
+      "path": "pg/adm/sms_admin/num_book_write.php",
+      "sha256": "f45db5903c272436346ccb0b787371a10b585e3836b51c17453e42337f0fc49a"
+    },
+    {
+      "path": "pg/adm/sms_admin/sms_write_overlap_check.php",
+      "sha256": "0e4f6d4e068507ba72444b40b1c9fd21da67d7e31741228ace167f153c3f9e81"
+    },
+    {
+      "path": "pg/adm/sms_admin/sms_write_send.php",
+      "sha256": "bd47e5ad1f07db6cf458d67890d4af0159e8d610c822c37670ed8d249119ad9b"
+    },
+    {
+      "path": "pg/head.php",
+      "sha256": "0970ef0b81136db5d1120f4b46ebede8aefd861331f0b670ffc764eb7f1dc5c9"
+    },
+    {
+      "path": "pg/head.sub.boa.php",
+      "sha256": "91819d21ac0484f1f65fac8ce7def1fe4ed098890018e872c8ed062a22947f29"
+    },
+    {
+      "path": "pg/index.php",
+      "sha256": "7ac6fc614d4145cbd8f44c1c9b369c7f5f838331181bddee3c8022cd03227db2"
+    },
+    {
+      "path": "pg/lib/Excel/oleread.inc.php",
+      "sha256": "ddbb3dc466eb74cc23c6446c45be81430e65a6753bffb6d7e2056fffc0c250ea"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_biffwriter.inc.php",
+      "sha256": "d32a900ad188e678475304bc52a343eda9d2635a689c576ee2f31f8fb11ea6e4"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_format.inc.php",
+      "sha256": "223d7bdcd37d94979e5a56547504b379bf83fcaef6b8830e7ca3bd33ecb9e58d"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_formula.inc.php",
+      "sha256": "05d44fbb156fea9a643a63b10eb2381a41e97d5fe6e457af730b5d8a93e78744"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_olewriter.inc.php",
+      "sha256": "9fbbeb037f1a2a8ce20cfb927c7e0680109450a4793dbd9750e8f18b2709be12"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_workbook.inc.php",
+      "sha256": "93416d1349a6a5b963b12d5b079d7ad27f296a28cf29d7d35d51cbbfafd3fd01"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_workbookbig.inc.php",
+      "sha256": "722a43cfbb3fd66a7ec2a5b11ac25afe84cb75c2432f9bc16b0f10bfb5c94332"
+    },
+    {
+      "path": "pg/lib/Excel/php_writeexcel/class.writeexcel_worksheet.inc.php",
+      "sha256": "e6133378a46bc9a62a8be7a1fb4311d53d624b1a52eb1f88ffa02981215b10ce"
+    },
+    {
+      "path": "pg/lib/Excel/reader.php",
+      "sha256": "d645035bbec17a7f2358adc31b0717002fba4f13c7f6ff2a7f4fae375c945955"
+    },
+    {
+      "path": "pg/lib/PHPExcel.php",
+      "sha256": "db2b420a3fde65f4f046b41e3da314586ab74d4151a3199992fd636df074213d"
+    },
+    {
+      "path": "pg/lib/PHPExcel/CachedObjectStorage/CacheBase.php",
+      "sha256": "b0dae057862b49c64d2665346160dbdfb28fcc936ed03882e91db72aabc36c3c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation.php",
+      "sha256": "dc153ad1b8cbe15058b4e2a20bfef796beee34f0665701950e7432882c70eba7"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/DateTime.php",
+      "sha256": "fbde89c82a0ee45b200c314991e6e01985515e7ed6486dac28e7cfa70b186fd0"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/Functions.php",
+      "sha256": "b2689f35bbb870bb30df09e826a285f4a0f91551c528360f82c104e3cf9e9a7c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/Logical.php",
+      "sha256": "a589941cb8e28d441e0bd1cc957a5c7779c85224c42e335e6e9a608788335f00"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/LookupRef.php",
+      "sha256": "8459e504f4ddfa852f3cbe7b6714900525b38fb7f3affc923d0346e7af2d29f6"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/MathTrig.php",
+      "sha256": "4457d92412f9c29bae533bdd541a3a99e5bc18480e8612ba11e77c314dcaf10c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/Statistical.php",
+      "sha256": "349b09bfa38503838dfbb47445957f18a0dc3b15c12d6eddd31571f8d3daa614"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Calculation/TextData.php",
+      "sha256": "9072ac83c8f054a078f3cae36324570f2e27e8e41877e35366d06265c041e35d"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Cell.php",
+      "sha256": "480ac69ade696be422c166fb81fd0ba857e93b772d52865c9561d9004a426f42"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Cell/DefaultValueBinder.php",
+      "sha256": "4eb96849ea1795041fda5d1df94717ed61914fcf33fb0f9f49c30abd86320f42"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Chart.php",
+      "sha256": "47383f6e7caefc424303fe4ecf7dbb1cdb66e154a36fc6430a6addd1b49e4003"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Chart/Legend.php",
+      "sha256": "e5f1bec1749d3f68e98eb917da339e0499bce906d89f620bf77574d0b82de4f3"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Chart/PlotArea.php",
+      "sha256": "926e7ca4505200675dd37a995b5f8d324dc0c8c4150b37e5fe729ed4f6e62198"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Chart/Title.php",
+      "sha256": "76c708ab16c73fcb396dc5a2a37899f2ff0d13153ee9218f3ec999103a13f2f9"
+    },
+    {
+      "path": "pg/lib/PHPExcel/HashTable.php",
+      "sha256": "315b49afdd9359b6fc4bbc39976ee523d9a44ada0d115a86170b52b8fbf987b5"
+    },
+    {
+      "path": "pg/lib/PHPExcel/NamedRange.php",
+      "sha256": "66c93e9c5313e72ee483d5294bbd4df58a3e7ae38a7ca645d9a178e3974a864b"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/Abstract.php",
+      "sha256": "b8f985de072d7ddfff13d32869cef3576c77a6cbd7fb0cbad2ed6ae2cd7d5d65"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/CSV.php",
+      "sha256": "7032e4e3d5a787c8f5b1e8fb8ee33e79c49def8e7a1e7c0d548f22ae06bbe4f3"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/Excel2003XML.php",
+      "sha256": "2ae9b81dfd1fe02baa26566bcdccf673ab22563e06902d6bd87893749f7f2adf"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/Excel2007.php",
+      "sha256": "8a18069e967d1679d87b8cda70a8fe85b9749e37d647f912285f8c1c05e792ca"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/Excel2007/Chart.php",
+      "sha256": "263b8a67252b5ef6faa0a2e61bec78b11a96dc033c14ca37dd0041f26ea62c6c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/Excel5.php",
+      "sha256": "24301cce1221a0bb11e9798a3ac8c6183e2be4720799d66342745b3ebd774e6d"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Reader/OOCalc.php",
+      "sha256": "199a20de03690782e1aa34d9c97b2a7d405c0a671c56d68fdfbb06f01ae91d9b"
+    },
+    {
+      "path": "pg/lib/PHPExcel/ReferenceHelper.php",
+      "sha256": "447fd8fe50de91df3fe25f4f9bdcfdce644ecad6b5c2c4e011437f2563bd9e15"
+    },
+    {
+      "path": "pg/lib/PHPExcel/RichText.php",
+      "sha256": "571adcf322bc495f8015d449467894448b1bcea4cfbee1660838e88e97574337"
+    },
+    {
+      "path": "pg/lib/PHPExcel/RichText/Run.php",
+      "sha256": "4f0b452a3a54f72b82317eed38a02baf1265a8d81bd750532c1c8d17822b31a4"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Settings.php",
+      "sha256": "f89473b3e33fc926b53dd701817b58d981d0dd7766aa930e951b76aa8ba8da09"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/Date.php",
+      "sha256": "069b7618e55f1057d1d2e2214570fbff1adbc3ab86f2b9bb4deb7e46413c8529"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/Drawing.php",
+      "sha256": "5dc3c51840cf6fce90a7a8475e8f3b18d794a69cd2655a6680985c65c00c16dd"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/File.php",
+      "sha256": "0c751071a9d6d36238e3759e5f2aab72bf93d955e220d34ac34f60a928056399"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/Font.php",
+      "sha256": "99beebf4d3d6ae66019e6bbfcdb927d6aa47605329dbf1a47ccce7751bfb6a44"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/OLE.php",
+      "sha256": "d3b3a9a94a53adfd0749cd7abf169f0f7cb7ffbc87b08b9a272de91d5cf2799c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/OLE/PPS/Root.php",
+      "sha256": "ed54fbe2b42823b177277f0bd3234efb1fa2796b1b500cd36a268512fe7b0bf2"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/OLERead.php",
+      "sha256": "95c947e4eceb1735f6ca2709719756cafaf80bd1fec13dd880ecf73374a942f5"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/PCLZip/pclzip.lib.php",
+      "sha256": "480fd66f532aecb46b1d342f9b94e9072bbdd8ddcae0d3057c747f236f6d1aa8"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Shared/trend/trendClass.php",
+      "sha256": "b0cd42dd5e0848f507fad2d01d02203e3214bc69eb14a6dfdc2456f9d5f129a9"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Style.php",
+      "sha256": "97c509de3d02a3ba57425579f270ffff9ed82f00b23f7b18039325a7537ce6a5"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Style/Border.php",
+      "sha256": "ffcb0686e8814d5c7427f31a4c02517427416e6e4450ac9ff4c55e2f3cb0d27f"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Style/Conditional.php",
+      "sha256": "309510275e8b6dbf54eb3ad3262d8c6679604907bf444c6dd3b2e7d2f107a48f"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Style/Fill.php",
+      "sha256": "ad404d59604bca7f9fab54d406012aa9f64266a3a0d1f75fe4e3ac08b3650d93"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Style/Font.php",
+      "sha256": "2898b0e718241875a8dff9b72e7de4136dcca0d063bb645f475f4d2480a38a03"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet.php",
+      "sha256": "7463c946d6c7686584651c6eae0b0f061e03ad60c9f3e1edda3a891ff04658c5"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/AutoFilter.php",
+      "sha256": "de7ab53270593a2143b5364a2a22fa57e37976a76729373c78f46c4fb4c1bf58"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/AutoFilter/Column.php",
+      "sha256": "879c43633d6ecadca5282fc4e4da860f45906dbcd26a507821d4ee9f72e8bd30"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/AutoFilter/Column/Rule.php",
+      "sha256": "a7a2003d2d8342c8f3c81d6af36d0faf9ef69d9c913545da95d487842b24553a"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/BaseDrawing.php",
+      "sha256": "4557067f6fb4edac42c38470d613191cdeed1e10d5ff755faa758d9804c6dcaf"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/CellIterator.php",
+      "sha256": "e9c996e4740f1649ce28eb800f3ba274160d764b4277ff189343f6b5c0abc454"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/Column.php",
+      "sha256": "ec51481bf7d6b05b546932ee2801d45c11deee311d38c787add1536cfd40bc64"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/ColumnCellIterator.php",
+      "sha256": "f0bafbb94960bfc31f9a3c89cead8f19bf20d2b0509866f06c85158ef95528c8"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/ColumnIterator.php",
+      "sha256": "54dda5bcf143ea7260931ffe9682ea5c488b8b113e1d42418d91574a9571517c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/Drawing/Shadow.php",
+      "sha256": "622c28d406c62478e399a05185f4d994b9e5e56067df386545d2792c783046d4"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/HeaderFooter.php",
+      "sha256": "c09488694a36f3c8cbf3018a9e785e18d6b8290b9ff0c315013403d078cb2d75"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/Row.php",
+      "sha256": "c49a8f58f9f9f9f4f586bf05ee9a077d3169e6821a4cf9b316f7abb6e3a2cbc4"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/RowCellIterator.php",
+      "sha256": "885b3a112ca9acc6e826adbf1aec4b95d02a97f16812d8a842bbc928320aa289"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Worksheet/RowIterator.php",
+      "sha256": "549f981c84aa3164d56a1c678e43b229600ab69e1734187f0f4c46544f98860b"
+    },
+    {
+      "path": "pg/lib/PHPExcel/WorksheetIterator.php",
+      "sha256": "a3feefb839055db471f0b744db71196a9492d44154d4db55332e6e0432091d2c"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Abstract.php",
+      "sha256": "8c3c02bac49438b04e167dd49d8d727e424092aae9c6b38059240f236284d1be"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007.php",
+      "sha256": "a99b458bc96009ea5850db2af19f628265906d96a501e4d7c560866451c9c3c6"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Chart.php",
+      "sha256": "830094bc0344cc71bf752a01188a1fcce333567976ff1fbdb69784d86b292685"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Comments.php",
+      "sha256": "865270e114d55593a9155e824ee14d1d265169fc9308b9dd0420e84846f17712"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/ContentTypes.php",
+      "sha256": "669eb95c7c3925064aa3f5474cc45f827e8ac217cfd6508437967538681b44db"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/DocProps.php",
+      "sha256": "f9fb9d319b5c5677ffa3d50bdff4339a44c46dec39200d429e9e7b4d0443efc7"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Drawing.php",
+      "sha256": "9485fb080db2a4c87395ef2ec917220054124027be9d1249a3873ae5c0db9a61"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Rels.php",
+      "sha256": "f6055bf92b202f1dc953f2700ffec82278f459181e4e370240fb5801a1ce3441"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/RelsRibbon.php",
+      "sha256": "30d506695eab0085df3d8c20025189cf8fda86a4a168f37581d9ce289e2901cc"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/RelsVBA.php",
+      "sha256": "f3e89d461f26b4c0533e820888b96ed53a30822c96c9483b55bb17d14eed0673"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/StringTable.php",
+      "sha256": "6cbefc13c110f904e2d925c145c2acf23e095ea8982369d1400843f40d489f65"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Style.php",
+      "sha256": "9d72f162baf01e201339d13f8b8efcee7fb06bbf4074659286ea7bc555358d19"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Theme.php",
+      "sha256": "0cfdc6876eb0d15d43f6340d372f4c8b83d069d672af557cd4611abc0215fb55"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Workbook.php",
+      "sha256": "805162c5088cd8e656609202724d5e4c442b3d2da0057d7a127c1b56c3dfefaa"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/Worksheet.php",
+      "sha256": "3ec6be802a6e44305843384583f8275b17a6529163621dcf2cc8f43e2717fc14"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel2007/WriterPart.php",
+      "sha256": "ce59937fcce874d872b6cd1c764f085d3e694f168e28d01f05b96a4bc9cd00c5"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5.php",
+      "sha256": "ed6a1f1e4131eab0774fb6e1eda338b9c8ef992f8172c8ea0c62a0c1a1a0750a"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5/Font.php",
+      "sha256": "7f50a03163ec59975000338fed8f30b4149d460356e8e3f8b333beba7449ae85"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5/Parser.php",
+      "sha256": "3262d40773ecc2ef8179882fe6db9cdb7933f501751b5341488afc22034c0806"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5/Workbook.php",
+      "sha256": "0f26c320a5aa11dc47b5a82b9013d8d88b1c9cc05fbb5f2e579ed860463ab544"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5/Worksheet.php",
+      "sha256": "b61934c5609aac3e84cce2850901769047c4d06d6b7b5722c0acef165fc55dd6"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/Excel5/Xf.php",
+      "sha256": "51e04acc9896ca8a8c302568f35b257c5109525d5893b9a292c1a650ab77c4ee"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/HTML.php",
+      "sha256": "abdf09d617f186712b7af10d9aab672f77b3d21683a6cdefae05b70fa408b5c6"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument.php",
+      "sha256": "d3a619e2f3b54e70c050c5437787418876120d0e96968de6fbaae8d037d7c25a"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Content.php",
+      "sha256": "7d3ed1713330be7f6a35e66834f341c7cecf964ea9d4969b37661afb8f309c5a"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Meta.php",
+      "sha256": "96670fbc3a28517f089fcb739a5a7579afdb0df2568e440806eda9679fec7425"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/MetaInf.php",
+      "sha256": "45f97fe9c519ec6cd26e984ee7fa1b3117d7d964c76f18a2c7fce536d9bd02aa"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Mimetype.php",
+      "sha256": "b4ceb524c3355bccfbd5b66dfabcf1611f10665ee34dea1757287da189ff8061"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Settings.php",
+      "sha256": "f1aa88c0d3f48c5883ba165b518cfdd976e7ab4d0c356d0d6f9ff1e9ced28e2f"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Styles.php",
+      "sha256": "00fb14f97133699aab9ff9f9d4bcfaf3fff7e04dec9aa2a3f59d3963bfa66b3e"
+    },
+    {
+      "path": "pg/lib/PHPExcel/Writer/OpenDocument/Thumbnails.php",
+      "sha256": "c393ecb85cd42437c45b9719c6c96a412214bed10454c49690adf19c54568f77"
+    },
+    {
+      "path": "pg/lib/common.lib.php",
+      "sha256": "64a3a3d92b6861902c74c7c40f6d9747e4a3d6dc3cf26c5e7a36661fd65e038a"
+    },
+    {
+      "path": "pg/lib/naver_syndi.lib.php",
+      "sha256": "36811b1c10713ae5b92a9db480cc99101e1d4c1a430874cc6043ec2e64bc9d7b"
+    },
+    {
+      "path": "pg/lib/shop.lib.php",
+      "sha256": "7b4e4eb9db10829c17c4fed7e867f06826fd10ca6f9bc72466438ed4b6fc26f4"
+    },
+    {
+      "path": "pg/lib/thumbnail.lib.php",
+      "sha256": "bf7c2fabc0ca2dc580a46917c7bc76b2c7bdeb7f76adf4429873c0a4120a2da9"
+    },
+    {
+      "path": "pg/mobile/shop/itemqaform.php",
+      "sha256": "52ecd770338e3c65585bf413b393adcc53bca0d886f319deebe9df973498e188"
+    },
+    {
+      "path": "pg/mobile/shop/itemuseform.php",
+      "sha256": "24e838dcbea23a12a917f996ee8c287d3c7e417a01f6bd2b8356442219d3fe20"
+    },
+    {
+      "path": "pg/mobile/shop/nicepay/orderform.1.php",
+      "sha256": "2e8b90da29e729bcffa644e6306a34bf6a2ddcef16657cac101ee505a229b4f0"
+    },
+    {
+      "path": "pg/mobile/shop/orderinquiryview.php",
+      "sha256": "0f2ebc90432665c4a46bbac5d161b27b201b212ac443d6635c9d60e693aaac99"
+    },
+    {
+      "path": "pg/mobile/skin/member/basic/password_lost.skin.php",
+      "sha256": "0e2b71df6899e714df775f61117d040e73fdbe5c74e936d60c006cb054c26048"
+    },
+    {
+      "path": "pg/mobile/skin/shop/basic/list.10.skin.php",
+      "sha256": "bb2105d668a808c73730ad9520a64e28dca14cedb3dc10d01eda49d83703a2e1"
+    },
+    {
+      "path": "pg/mobile/skin/shop/basic/main.20.skin.php",
+      "sha256": "63630c31da8a1eea82fa38f83d45a70f8ebeb937a8baae94e14aebb2fb3cca3e"
+    },
+    {
+      "path": "pg/mobile/skin/shop/basic/main.30.skin.php",
+      "sha256": "8edb06abe6604f9c2e6b3daa675c1a07a7a781895d88571adb315d95b4264dd6"
+    },
+    {
+      "path": "pg/plugin/PHPMailer/class.phpmailer.php",
+      "sha256": "ecac8344167c24e078e51d22b4f5176627c0ff56f85f7e16bab800404c1a1428"
+    },
+    {
+      "path": "pg/plugin/PHPMailer/class.phpmaileroauth.php",
+      "sha256": "57e54a2798aaad50f80c94f21d0f89fc43cc12f9d939e7ef4e7cda9777b2f6ab"
+    },
+    {
+      "path": "pg/plugin/PHPMailer/class.pop3.php",
+      "sha256": "d7bff8b15f0962e9259f512734b192683ead670d723245629eb09b166a3c0ea1"
+    },
+    {
+      "path": "pg/plugin/PHPMailer/class.smtp.php",
+      "sha256": "eb772e9cbb1c42ad8a262f7bc59cb8968bf337f7091f258f799313261caed22d"
+    },
+    {
+      "path": "pg/plugin/browscap/Browscap.php",
+      "sha256": "c9077d2f6b5dbbc87cc1fc3cf4db8f2d714468dcecbe009c28fe6308ab1912b4"
+    },
+    {
+      "path": "pg/plugin/editor/cheditor5/imageUpload/upload.php",
+      "sha256": "43833100c0e4985c6f9cface5e4b30948bd24d063a76637aef611d2d4128a726"
+    },
+    {
+      "path": "pg/plugin/editor/smarteditor2/photo_uploader/popup/php/JSON.php",
+      "sha256": "8193518a662357f7a72d9564fed85b3159bd7b860c9479dfa597fe51fdfd81c2"
+    },
+    {
+      "path": "pg/plugin/editor/smarteditor2/photo_uploader/popup/php/UploadHandler.php",
+      "sha256": "4be2d7a585f32efec6b3f77abb2834a8d86a892335b7a8afdf240a32272298f9"
+    },
+    {
+      "path": "pg/plugin/htmlpurifier/HTMLPurifier.standalone.php",
+      "sha256": "80f8d2f297431829d609b43e9e0bb2f46e27d39a929a2455c8f2ede88c3fd71f"
+    },
+    {
+      "path": "pg/plugin/inicert/ini_find_result.php",
+      "sha256": "46bb935255013c1aa3b5d77b2217c5a34613bfa9f052d3dcc60c620043882312"
+    },
+    {
+      "path": "pg/plugin/inicert/ini_result.php",
+      "sha256": "6482a1cc6d712f1f2a1c567c4c5722adac2cbbee1c36f05b7b13090318443ae5"
+    },
+    {
+      "path": "pg/plugin/kakao5/Popbill/Linkhub/linkhub.auth.php",
+      "sha256": "e7f5fa41f2cfd1b8f6f48f098dde7d9db248f0c2226104e8ac9a63c607cfa8e3"
+    },
+    {
+      "path": "pg/plugin/kakao5/Popbill/PopbillMessaging.php",
+      "sha256": "444d3e7678cc43eeb72735845da24295f17e0207a2b29cf6eaad7fbf95cadf04"
+    },
+    {
+      "path": "pg/plugin/kakao5/Popbill/popbill.php",
+      "sha256": "cff787f44e571254fd4b5e0f0c1f8c7ce953c6c0974f8bb09b47e28a61349314"
+    },
+    {
+      "path": "pg/plugin/kcpcert_v2/lib/kcp_api.php",
+      "sha256": "3259f53c0e3c527d8730bc7c8b8b8babde87a114d01f27101b49713489161a0f"
+    },
+    {
+      "path": "pg/plugin/lgxpay/lgdacom/JSON.php",
+      "sha256": "54664424c1f62ee5999ab85722f835ec78031d5f462411e23a5ddeadc795dc25"
+    },
+    {
+      "path": "pg/plugin/lgxpay/lgdacom/XPayClient.php",
+      "sha256": "e27af495ac3d056575b9c632db5bee6d7dd952f2703685e1936f48217827de9b"
+    },
+    {
+      "path": "pg/plugin/lgxpay/lgdacom/XPayClient4DB.php",
+      "sha256": "c1f0290fd48504b9d8cbcb38a374219dcc7b3d8780bdd1de475c78888fb0e93a"
+    },
+    {
+      "path": "pg/plugin/lgxpay/lgdacom/patch.php",
+      "sha256": "476c827151a3378329f53855ac7796500e67289b7f689be9e72255ba25f28735"
+    },
+    {
+      "path": "pg/plugin/lgxpay/lgdacom/ping.php",
+      "sha256": "27dba111544da903da08124da8dfa2d633343d13e79812db7d09d14ca42ecbec"
+    },
+    {
+      "path": "pg/plugin/recaptcha/recaptcha.class.php",
+      "sha256": "b436c52c28b2f60d3bc67bb6f54b18aef63976ec2d24a4b377a7831486aec010"
+    },
+    {
+      "path": "pg/plugin/recaptcha_inv/recaptcha.class.php",
+      "sha256": "b436c52c28b2f60d3bc67bb6f54b18aef63976ec2d24a4b377a7831486aec010"
+    },
+    {
+      "path": "pg/plugin/sms5/JSON.php",
+      "sha256": "5d245cc00fc2084fb6051f37af5912c6d78e459b378bcc4cd03ab0af7cbd3b6f"
+    },
+    {
+      "path": "pg/plugin/sns/twitter/twitteroauth/OAuth.php",
+      "sha256": "e88cad0e2c469050dd7a6d1ede7c54549b8851e2c687c4034e33e1472dd384d2"
+    },
+    {
+      "path": "pg/plugin/sns/twitter/twitteroauth/twitteroauth.php",
+      "sha256": "abcff8a1d7dc7056a5ebf11b92f749ade89a90c1a39bea6f1aad377b49a4ae2f"
+    },
+    {
+      "path": "pg/plugin/sns/view.sns.skin.php",
+      "sha256": "75b3f02aa065e4a5f53f4d92773a5a8ed172ab98e3cbd8c32880ab155995d331"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/Endpoint.php",
+      "sha256": "f9a08c278cef7261427eb930631b6683e10b327387a177783c000972f31cc384"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/Providers/Kakao.php",
+      "sha256": "91dfd62ea8cd49f5db22139aae54b65e8e8fc7ecb3161ae2d934e959c59e7350"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/Providers/Naver.php",
+      "sha256": "b3dd6ce2bc97eda0b243caa98fa9e4d0ec3bbbcca758c1115504737a6c910c84"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/thirdparty/OAuth/OAuth.php",
+      "sha256": "3f87c5dc4196c24ff7fbdadd4b45205ae4632b871ed36731378f9e7cc3896ef1"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/thirdparty/OAuth/OAuth1Client.php",
+      "sha256": "c82a9c383b19b9a4631f4a90e03a35bd6d0d78611c3688f3c34c997170473130"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/thirdparty/OAuth/OAuth2Client.php",
+      "sha256": "b387d1f654550cbf56ea2ee98185069aeb27775cadb864fd7bbc28dcf22b2910"
+    },
+    {
+      "path": "pg/plugin/social/Hybrid/thirdparty/OpenID/LightOpenID.php",
+      "sha256": "1cad66c1cbfd98dc72648cef9dd1779c5df25c12b9c84aa7d4c348dd989bb7b1"
+    },
+    {
+      "path": "pg/plugin/social/includes/functions.php",
+      "sha256": "61ae8178aa98ec1c3e2660f1076fd1551c4a64d2837d362609e4bf629720dddb"
+    },
+    {
+      "path": "pg/shop/inicis/escrow.register.php",
+      "sha256": "29da4626305e74ee95a616f7e71386a92bab2916800973866b3e1b76d44865bd"
+    },
+    {
+      "path": "pg/shop/inicis/libs/JSON.php",
+      "sha256": "c2f93b63eccc402bb971369c9df166ba0ecfdbe56f40b74ba9d62b6e4a92dec2"
+    },
+    {
+      "path": "pg/shop/inicis/libs/inicis_youngcart_fn.php",
+      "sha256": "060176e4664d26832b3faef28a467ba7a2fdba6065f8929e973c470879020edf"
+    },
+    {
+      "path": "pg/shop/inicis/pro/inicis_pro.lib.php",
+      "sha256": "66946fae970e6249cfe4e1dec6d4f663ee721defe85aab26d17d193b346a7264"
+    },
+    {
+      "path": "pg/shop/inicis/taxsave_result.php",
+      "sha256": "cec633ebfff331ac0ed1d007ff7dd4e0b25ca8e86350faf2134bea6cd9b127ff"
+    },
+    {
+      "path": "pg/shop/itemqaform.php",
+      "sha256": "ffe153d5d17cce8cd2bc6235d875212501aca7322158fcecdf17c55714deae3f"
+    },
+    {
+      "path": "pg/shop/itemuseform.php",
+      "sha256": "2c0753f6c8cbffe880f489250f03b3280384f22d56252458573c127231e31796"
+    },
+    {
+      "path": "pg/shop/lg/escrow.register.php",
+      "sha256": "ebb48f754b2929124a54cb8b658539359bfc88eccdb58f5fbed0d9b097768f46"
+    },
+    {
+      "path": "pg/shop/orderinquiryview.php",
+      "sha256": "4b17eee7f503215ebae4bbbb6bbf79d585dd6aae74dcf4f393a63aef8258ace9"
+    },
+    {
+      "path": "pg/shop/price/daum.php",
+      "sha256": "c3721d12574f85e6d64a6f90999ceeb4fe19d54cda32bc55bdf7e75879f7554e"
+    },
+    {
+      "path": "pg/shop/settle_nicepay.inc.php",
+      "sha256": "000146303a42d768a9faa0b9351bbd349f570b5ec6759a7d094137852993d892"
+    },
+    {
+      "path": "pg/shop/toss/toss.inc.php",
+      "sha256": "87261c91f1bda81be41805e5a8d430d50fe77edb1491b5c8ffbc8a88feb79104"
+    },
+    {
+      "path": "pg/skin/board/basic_new/list.skin.php",
+      "sha256": "33ab987f7d8901e9d0624cf0468790cf93574b2fc5607f2dacf2219e33b745c7"
+    },
+    {
+      "path": "pg/skin/board/basic_new_voc/list.skin.php",
+      "sha256": "19155f21f9aed19100ddad5a8883f1212e0a7ea19d4301b1ae392941d4a3f7d1"
+    },
+    {
+      "path": "pg/skin/board/basic_new_voc/view.skin.php",
+      "sha256": "8fa87a6b1364ec1ce9fdbdb4b2bfef5e7f3db4340af66abc73d153bdea89854a"
+    },
+    {
+      "path": "pg/skin/board/basic_new_voc2/list.skin.php",
+      "sha256": "19155f21f9aed19100ddad5a8883f1212e0a7ea19d4301b1ae392941d4a3f7d1"
+    },
+    {
+      "path": "pg/skin/board/basic_new_voc2/view.skin.php",
+      "sha256": "8fa87a6b1364ec1ce9fdbdb4b2bfef5e7f3db4340af66abc73d153bdea89854a"
+    },
+    {
+      "path": "pg/skin/board/basic_new_voc2/write.skin.php",
+      "sha256": "59be2037f4cc080dc34b4ce07c39aaf7f06808c6ef814673b0cbeb82c38b32af"
+    },
+    {
+      "path": "pg/skin/board/basic_voc/view.skin.php",
+      "sha256": "62d9be827b93e86dbe3ba4cf0cc261970e2a62c74a279fa2164f47fc37a9cd06"
+    },
+    {
+      "path": "pg/skin/board/basic_voc/write.skin.php",
+      "sha256": "9b39ce127c3d23e82a4c9dc3e8b92c5094f316b86b50da41c99eafe37e2880e5"
+    },
+    {
+      "path": "pg/skin/board/event/list.skin.php",
+      "sha256": "b6140ba20c9ac213869e02e412482f17c21344fe7effedbebba3420bbb0a6450"
+    },
+    {
+      "path": "pg/skin/board/event/view.skin.php",
+      "sha256": "ae7ccefe118f80c23690d64c63ccfcd191e9ffe93a5f55032387a032c6d6f3d4"
+    },
+    {
+      "path": "pg/skin/board/mapV2/view.skin.php",
+      "sha256": "1446f4602dc0142a3381d6f03e0bf52dc52b9bb268d098f25b623257111a0245"
+    },
+    {
+      "path": "pg/skin/board/map_basic2/list.skin.back.php",
+      "sha256": "f781990aaa23b186ceb2a3d6fc16085016dafaa5de444154298157472a4c6fea"
+    },
+    {
+      "path": "pg/skin/board/map_basic2/list.skin.php",
+      "sha256": "0017d73d901833b8330eb7b1330b00c094e73906330c4b3be1bdbe795a0927eb"
+    },
+    {
+      "path": "pg/skin/board/map_basic2/list.skin_201005.php",
+      "sha256": "aa905a4bf446f425408c2fb41266ac74c237c856c702fecf70f3ad1d1b0e5294"
+    },
+    {
+      "path": "pg/skin/board/map_basic2/view.skin.php",
+      "sha256": "d1c12d4ec9e301e71ef92420657ab59e78abd6301ba26ec5de79e96bc6851071"
+    },
+    {
+      "path": "pg/skin/board/map_basic2/write.skin.php",
+      "sha256": "2dcf746136b71ef86346bb5eaa4b8042b09c17e55b59e2c0e7e7adb921e4d746"
+    },
+    {
+      "path": "pg/skin/board/recruit/list.skin.php",
+      "sha256": "e8c8bf8e70d2d5216360225c80de8d8c5861fabac45cd5fa765801a5a8d1059d"
+    },
+    {
+      "path": "pg/skin/board/recruit/view.skin.php",
+      "sha256": "0432be5db7f81501613bbbaad21bcab45ca3bf8501de68b62d59c72fed763e51"
+    },
+    {
+      "path": "pg/skin/board/recruit/write.skin.php",
+      "sha256": "da286c357194184341b53e813fb4b22316253c59a0b6f4ace0f98a57f9d44cc6"
+    },
+    {
+      "path": "pg/skin/member/basic/password_lost.skin.php",
+      "sha256": "ebe4202ad3ca3bda9cdfb0b9e703e06d9ef34991e5674ee07c1ab296c48d06ad"
+    },
+    {
+      "path": "pg/tail.php",
+      "sha256": "c4a6e805ee4cbf0d86c5f8a0dd97ff9242a49381e46046a57d0e500996287282"
+    },
+    {
+      "path": "pg/tests/php85/lint.php",
+      "sha256": "c94cbc0bfb0d0fd862891723d784ef2326f3ac96de20d2507ac271bb742e2f49"
+    },
+    {
+      "path": "pg/tests/php85/regression.php",
+      "sha256": "f37ca411bbaf5bf072f4655fde00469e6bb9f5a858e430b265ba080d6e98f4c1"
+    },
+    {
+      "path": "pg/theme/basic/mobile/skin/member/basic/password_lost.skin.php",
+      "sha256": "ebe4202ad3ca3bda9cdfb0b9e703e06d9ef34991e5674ee07c1ab296c48d06ad"
+    },
+    {
+      "path": "pg/theme/basic/mobile/skin/shop/basic/list.10.skin.php",
+      "sha256": "550878dd1ce9a08a62fbbe945578d345a211c2f71d0bc5e936b873157f4f1af6"
+    },
+    {
+      "path": "pg/theme/basic/mobile/skin/shop/basic/main.20.skin.php",
+      "sha256": "9a46c3c010b06fbd204e2ce6a8078463df67655abc60fd64b5c305fa3508ab37"
+    },
+    {
+      "path": "pg/theme/basic/mobile/skin/shop/basic/main.30.skin.php",
+      "sha256": "62e347657b0560c4f2c0f7438c90e7e13f7ce50685831fc1c6bc7a015c473a9b"
+    },
+    {
+      "path": "pg/theme/basic/skin/board/basic/view.skin.php",
+      "sha256": "0d1a857a684b5b0f3f29e64686b66fa5bd5df9fa7551a7a83883989d83ddf383"
+    },
+    {
+      "path": "pg/theme/basic/skin/board/gallery/list.skin.php",
+      "sha256": "f7e86e203ca977e98c6c3e6a060b1556a8f23f81e8a3011775ed12232d0e52a8"
+    },
+    {
+      "path": "pg/theme/basic/skin/board/gallery/view.skin.php",
+      "sha256": "11b8a670866791d79adea65e74c7ce3d836b2853837dd7e9b266b78cd0ef7120"
+    },
+    {
+      "path": "pg/theme/basic/skin/member/basic/password_lost.skin.php",
+      "sha256": "ebe4202ad3ca3bda9cdfb0b9e703e06d9ef34991e5674ee07c1ab296c48d06ad"
+    },
+    {
+      "path": "pg/yc4_import_run.php",
+      "sha256": "2c8c9d682174e2d2e0cc0e61014de7b3ff47c0e05b6e8d5025c11f26c0de2bea"
+    }
+  ]
+}

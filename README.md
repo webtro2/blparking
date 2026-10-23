@@ -1,3 +1,13 @@
+# TRUTH PHP 8.5 호환 수정 패치
+
+- [TRUTH 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/truth-php85-patch.zip)
+- [적용 방법과 검증 범위](TRUTH-PHP85-README.md)
+- [검증 결과](truth-php85-validation.txt)
+
+이번 truth.zip + pg.zip 전용입니다. 게시판의 G5_JS_VER 미정의 오류와 메인의 코어 로딩 오류를 재현·수정했습니다. 홈페이지 19개와 pg 198개 변경 PHP 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·업로드·이미지·인증서는 유지하세요.** PHP 1,665개 구문 검사와 홈페이지/문서 12페이지, 게시판 9개 진입 경로, 로그인·관리자·저장/조회 및 라이브러리 11개 검사가 통과했습니다. 운영 DB와 외부 서비스는 실서비스 검증하지 않았습니다.
+
+---
+
 # MS24 PHP 8.5 호환 수정 패치
 
 - [MS24 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/ms24-php85-patch.zip)

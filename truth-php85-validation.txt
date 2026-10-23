@@ -1,0 +1,26 @@
+PHP 8.5.12; short_open_tag=Off; E_ALL; isolated synthetic DB
+
+LINT 1665 passed, 0 failed; PHP 8.5.12; short_open_tag=0
+
+PASS homepage and document pages: 12
+PASS login and admin
+PASS list/view/write form with skin: gallery
+PASS list/view/write form with skin: basic
+
+PASS custom skin: gallery_responsive
+PASS custom skin: basic_new
+PASS custom skin: basic_voc
+PASS all 9 board entry routes
+
+PASS password
+PASS mail
+PASS html
+PASS old-excel
+PASS excel-xls
+PASS excel-xlsx
+PASS excel-pclzip
+PASS json
+PASS captcha
+PASS thumbnail
+PASS xml-safety
+11 passed, 0 failed
