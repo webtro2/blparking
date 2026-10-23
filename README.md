@@ -1,3 +1,12 @@
+# 게시판 본문 입력 경고 — 편집기 동기화 수정
+
+- [수정 파일 1개 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/board-editor-content-sync-fix.zip)
+- [원인과 적용 방법](BOARD-EDITOR-CONTENT-SYNC-README.md)
+
+이번 basic_new.zip과 추가 pg.zip에서 bbs/write.php의 get_editor_js() 누락을 확인했습니다. 편집기의 내용을 실제 전송 textarea로 복사하도록 한 줄 수정했습니다. ZIP의 pg/bbs/write.php를 백업 후 동일 경로에 덮어쓰고 글쓰기 화면을 새로 여세요. 기존 내용 필수 검사·상품 게시판 예외·캡차·토큰은 유지합니다. PHP 구문 검사와 20개 편집기/게시판/내용 조합 테스트를 통과했습니다. 실제 운영 브라우저·DB 등록 검사는 포함하지 않았습니다. 다른 사이트용 write.php와 혼용하지 마세요.
+
+---
+
 # BLUECAN197 제공 파일 범위 수정본 — 전체 호환 검증 미완료
 
 - [제공 파일 범위 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/bluecan197-php85-partial-patch.zip)
