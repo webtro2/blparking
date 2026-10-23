@@ -1,3 +1,13 @@
+# GYC PHP 8.5 호환 수정 패치
+
+- [GYC 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/gyc-php85-patch.zip)
+- [적용 방법과 검증 범위](GYC-PHP85-README.md)
+- [검증 결과](gyc-php85-validation.txt)
+
+이번 gyc.zip + pg.zip 전용입니다. 게시판의 버전 상수 오류와 메인의 짧은 PHP 태그 문제를 재현·수정했습니다. 홈페이지 32개와 pg 199개 PHP 변경 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·업로드·제품 자료·이미지·인증서는 유지하세요.** DB 재설치는 필요 없습니다. PHP 1,709개 구문 검사, 홈페이지/문서 13개, 로그인·관리자·게시판·제품/카탈로그 스킨과 라이브러리 11개 검사가 통과했습니다. 운영 DB와 외부 서비스는 실서비스 검증하지 않았습니다.
+
+---
+
 # 칠곡경북대학교병원 권역호스피스센터 PHP 8.5 패치
 
 - [knuhhospice 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/knuhhospice-php85-patch.zip)
