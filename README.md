@@ -1,3 +1,13 @@
+# CAFEPP PHP 8.5 호환 수정 패치
+
+- [CAFEPP 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/cafepp-php85-patch.zip)
+- [적용 방법과 검증 범위](CAFEPP-PHP85-README.md)
+- [검증 결과](cafepp-php85-validation.txt)
+
+이번 cafepp.zip + pg.zip 전용입니다. 메인의 코어 로딩 오류와 게시판 버전 상수 오류를 재현·수정했습니다. 홈페이지 38개와 pg 201개 변경 PHP 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·업로드·제품 자료·이미지·인증서는 유지하세요.** PHP 1,684개 구문 검사와 홈페이지/하위 페이지 31개, 로그인·관리자·게시판·문의 스킨 및 라이브러리 11개 검사가 통과했습니다. 운영 DB와 외부 서비스는 실서비스 검증하지 않았습니다.
+
+---
+
 # TRUTH PHP 8.5 호환 수정 패치
 
 - [TRUTH 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/truth-php85-patch.zip)
