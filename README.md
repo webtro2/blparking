@@ -1,3 +1,13 @@
+# BLUECAN197 제공 파일 범위 수정본 — 전체 호환 검증 미완료
+
+- [제공 파일 범위 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/bluecan197-php85-partial-patch.zip)
+- [누락 파일·수정 범위·적용 안내](BLUECAN197-PHP85-README.md)
+- [구문 검사 결과와 검증 제한](bluecan197-php85-validation.txt)
+
+이번 bluecan197.zip + pg.zip 전용 부분 패치입니다. 첨부 pg.zip에는 bbs/·lib/·plugin/·head.php 등 핵심 실행 파일이 빠져 있어 전체 로그인·게시판·DB 동작은 검증하지 못했습니다. **전체 PHP 8.5 호환 완료본이 아닙니다.** 제공된 PHP 131개 구문 검사는 통과했으며 홈페이지 24개와 pg 29개 변경 PHP 파일을 담았습니다. 백업과 테스트 환경에서 확인하고, 전체 삭제·DB 초기화·다른 사이트의 pg 혼용은 피하세요. 같은 사이트의 누락된 실행 파일을 확인해야 전체 검증을 마칠 수 있습니다. data/·DB 설정·업로드·인증서는 공유/덮어쓰기 대상이 아닙니다.
+
+---
+
 # FMTS PHP 8.5 호환 수정 패치
 
 - [FMTS 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/fmts-php85-patch.zip)

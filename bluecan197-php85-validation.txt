@@ -1,0 +1,14 @@
+PARTIAL SOURCE ONLY; functional/integration tests NOT performed.
+PHP 8.5.12; short_open_tag=Off; E_ALL
+
+LINT 131 passed, 0 failed; PHP 8.5.12; short_open_tag=0
+
+Missing paths in attached pg.zip:
+bbs
+lib
+plugin
+js
+css
+head.php
+head.sub.boa.php
+contents.config.php
