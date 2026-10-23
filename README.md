@@ -1,3 +1,13 @@
+# FMTS PHP 8.5 호환 수정 패치
+
+- [FMTS 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/fmts-php85-patch.zip)
+- [적용 방법과 검증 범위](FMTS-PHP85-README.md)
+- [검증 결과](fmts-php85-validation.txt)
+
+이번 fmts.zip + pg.zip 전용입니다. 메인의 코어 로딩 실패·DB 예외·배열 키 오류와 구형 라이브러리·지원사업/상담/뉴스레터 스킨을 수정했습니다. 홈페이지 53개와 pg 185개 변경 PHP 파일을 담았습니다. **백업 후 홈페이지 최상위에 같은 구조로 덮어쓰세요. 전체 삭제하지 말고 data/·DB 설정·업로드·이미지·인증서는 유지하세요.** 기존 상담의 사용자 정의 DB 필드는 유지해야 합니다. PHP 1,318개 구문 검사, 홈페이지/문서 41개, 로그인·관리자·기본 게시판과 전용 스킨 6종 및 라이브러리 11개 검사가 통과했습니다. 운영 DB·전용 신청 후속 처리·외부 서비스는 실서비스 검증하지 않았습니다.
+
+---
+
 # CAFEPP PHP 8.5 호환 수정 패치
 
 - [CAFEPP 수정 ZIP 다운로드](https://github.com/webtro2/blparking/raw/refs/heads/php85-compat/cafepp-php85-patch.zip)
